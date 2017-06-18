@@ -26,14 +26,17 @@ var path = _interopRequireWildcard(_path);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
+var config = require('./../config.json');
+
 (function (_, colors, path, fs, fbAdmin, gcloud, acct, seed, mime) {
 
+    console.log(JSON.stringify(acct));
     var totalCoverPics = 24;
     var totalLogoPics = 24;
     var totalComicThumbnails = 7;
     var totalStoryPics = 60;
 
-    var bucketName = 'testangular-44f78.appspot.com';
+    var bucketName = config.bucketName;
 
     var createPublicFileUrl = function createPublicFileUrl(bucketName, storageName) {
         return 'http://storage.googleapis.com/' + bucketName + '/' + encodeURIComponent(storageName);
@@ -43,103 +46,109 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
         if (totalCoverPics == 0 && totalLogoPics == 0 && totalComicThumbnails == 0 && totalStoryPics == 0) {
             setTimeout(function () {
                 console.log('---------------------------------------------------------');
-                console.log('Seed job completed, you are all set!!!'.green);
+                console.log('Seed job completed, you are all set!!!'.bgGreen.black);
                 console.log('---------------------------------------------------------');
             }, 500);
         }
     };
 
+    var checkUpdateComplete = function checkUpdateComplete(updateType) {
+        setTimeout(function () {
+            switch (updateType) {
+                case 'coverpic':
+                    if (totalCoverPics > 0) totalCoverPics--;
+
+                    if (totalCoverPics == 0) {
+                        console.log('---------------------------------------------------------');
+                        console.log('Covers pics updated succcessfully'.bgCyan.black);
+                        console.log('---------------------------------------------------------');
+
+                        checkProcessComplete();
+                    }
+                    break;
+                case 'logo':
+                    if (totalLogoPics > 0) totalLogoPics--;
+
+                    if (totalLogoPics == 0) {
+                        console.log('---------------------------------------------------------');
+                        console.log('Logo pics updated succcessfully'.bgCyan.black);
+                        console.log('---------------------------------------------------------');
+
+                        checkProcessComplete();
+                    }
+                    break;
+                case 'comic':
+                    if (totalComicThumbnails > 0) totalComicThumbnails--;
+
+                    if (totalComicThumbnails == 0) {
+                        console.log('---------------------------------------------------------');
+                        console.log('Comic thumbnails updated succcessfully'.bgCyan.black);
+                        console.log('---------------------------------------------------------');
+
+                        checkProcessComplete();
+                    }
+                    break;
+                case 'story':
+                    if (totalStoryPics > 0) totalStoryPics--;
+
+                    if (totalStoryPics == 0) {
+                        console.log('---------------------------------------------------------');
+                        console.log('Story pics updated succcessfully'.bgCyan.black);
+                        console.log('---------------------------------------------------------');
+
+                        checkProcessComplete();
+                    }
+                    break;
+            }
+        }, 200);
+    };
+
     var updateHeroCoverPic = function updateHeroCoverPic(fireDb, heroid, heroCoverPicUrl) {
-        fireDb.ref().child('Heroes/' + heroid + '/coverPicUrl').set(heroCoverPicUrl);
-        if (totalCoverPics > 0) totalCoverPics--;
-
-        if (totalCoverPics == 0) {
-            setTimeout(function () {
-                console.log('---------------------------------------------------------');
-                console.log('Covers pics updated succcessfully'.green);
-                console.log('---------------------------------------------------------');
-
-                checkProcessComplete();
-            }, 200);
-        }
+        fireDb.ref().child('Heroes/' + heroid + '/coverPicUrl').set(heroCoverPicUrl, function (err) {
+            if (!err) {
+                checkUpdateComplete('coverpic');
+            }
+        });
     };
 
     var updatePublisherCoverPic = function updatePublisherCoverPic(fireDb, publisherId, publisherCoverPicUrl) {
-        fireDb.ref().child('Publishers/' + publisherId + '/coverPicUrl').set(publisherCoverPicUrl);
-        if (totalCoverPics > 0) totalCoverPics--;
-
-        if (totalCoverPics == 0) {
-            setTimeout(function () {
-                console.log('---------------------------------------------------------');
-                console.log('Covers pics updated succcessfully'.green);
-                console.log('---------------------------------------------------------');
-
-                checkProcessComplete();
-            }, 200);
-        }
+        fireDb.ref().child('Publishers/' + publisherId + '/coverPicUrl').set(publisherCoverPicUrl, function (err) {
+            if (!err) {
+                checkUpdateComplete('coverpic');
+            }
+        });
     };
 
     var updateHeroLogo = function updateHeroLogo(fireDb, heroid, heroLogoUrl) {
-        fireDb.ref().child('Heroes/' + heroid + '/logoUrl').set(heroLogoUrl);
-        if (totalLogoPics > 0) totalLogoPics--;
-
-        if (totalLogoPics == 0) {
-            setTimeout(function () {
-                console.log('---------------------------------------------------------');
-                console.log('Logo pics updated succcessfully'.green);
-                console.log('---------------------------------------------------------');
-
-                checkProcessComplete();
-            }, 200);
-        }
+        fireDb.ref().child('Heroes/' + heroid + '/logoUrl').set(heroLogoUrl, function (err) {
+            if (!err) {
+                checkUpdateComplete('logo');
+            }
+        });
     };
 
     var updatePublisherLogo = function updatePublisherLogo(fireDb, publisherId, publisherLogoUrl) {
-        fireDb.ref().child('Publishers/' + publisherId + '/logoUrl').set(publisherLogoUrl);
-
-        if (totalLogoPics > 0) totalLogoPics--;
-
-        if (totalLogoPics == 0) {
-            setTimeout(function () {
-                console.log('---------------------------------------------------------');
-                console.log('Logo pics updated succcessfully'.green);
-                console.log('---------------------------------------------------------');
-
-                checkProcessComplete();
-            }, 200);
-        }
+        fireDb.ref().child('Publishers/' + publisherId + '/logoUrl').set(publisherLogoUrl, function (err) {
+            if (!err) {
+                checkUpdateComplete('logo');
+            }
+        });
     };
 
     var updateComicThumbnail = function updateComicThumbnail(fireDb, comicId, comicThumbnail) {
-        fireDb.ref().child('Comics/' + comicId + '/thumbnailUrl').set(comicThumbnail);
-
-        if (totalComicThumbnails > 0) totalComicThumbnails--;
-
-        if (totalComicThumbnails == 0) {
-            setTimeout(function () {
-                console.log('---------------------------------------------------------');
-                console.log('Comic thumbnails updated succcessfully'.green);
-                console.log('---------------------------------------------------------');
-
-                checkProcessComplete();
-            }, 200);
-        }
+        fireDb.ref().child('Comics/' + comicId + '/thumbnailUrl').set(comicThumbnail, function (err) {
+            if (!err) {
+                checkUpdateComplete('comic');
+            }
+        });
     };
 
     var updateStoryPic = function updateStoryPic(fireDb, heroId, storyId, storyPicUrl) {
-        fireDb.ref().child('Stories/' + heroId + '/' + storyId + '/imageUrl').set(storyPicUrl);
-
-        if (totalStoryPics > 0) totalStoryPics--;
-
-        if (totalStoryPics == 0) {
-            setTimeout(function () {
-                console.log('---------------------------------------------------------');
-                console.log('Story pics updated succcessfully'.green);
-                console.log('---------------------------------------------------------');
-
-                checkProcessComplete();
-            }, 200);
-        }
+        fireDb.ref().child('Stories/' + heroId + '/' + storyId + '/imageUrl').set(storyPicUrl, function (err) {
+            if (!err) {
+                checkUpdateComplete('story');
+            }
+        });
     };
 
     var uploadCoverPics = function uploadCoverPics(fireDb, gstore, mime) {
@@ -164,7 +173,7 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
                     metadata: { contentType: mime.lookup(filePath), cacheControl: "public, max-age=300" }
                 }, function (err) {
                     if (err) console.log(err.red);else {
-                        console.log(('Uploaded Cover pic for Hero ' + heroId).green);
+                        console.log(('Uploaded Cover pic for Hero ' + heroId).yellow);
                         updateHeroCoverPic(fireDb, heroId, createPublicFileUrl(bucketName, storageName));
                     }
                 });
@@ -182,7 +191,7 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
                     metadata: { contentType: mime.lookup(filePath), cacheControl: "public, max-age=300" }
                 }, function (err) {
                     if (err) console.log(err.red);else {
-                        console.log(('Uploaded Cover pic for Publisher ' + publisherId).green);
+                        console.log(('Uploaded Cover pic for Publisher ' + publisherId).yellow);
                         updatePublisherCoverPic(fireDb, publisherId, createPublicFileUrl(bucketName, storageName));
                     }
                 });
@@ -212,7 +221,7 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
                     metadata: { contentType: mime.lookup(filePath), cacheControl: "public, max-age=300" }
                 }, function (err) {
                     if (err) console.log(err.red);else {
-                        console.log(('Uploaded Logo for Hero ' + heroId).green);
+                        console.log(('Uploaded Logo for Hero ' + heroId).magenta);
                         updateHeroLogo(fireDb, heroId, createPublicFileUrl(bucketName, storageName));
                     }
                 });
@@ -231,7 +240,7 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
                     metadata: { contentType: mime.lookup(filePath), cacheControl: "public, max-age=300" }
                 }, function (err) {
                     if (err) console.log(err.red);else {
-                        console.log(('Uploaded Logo for Publisher ' + publisherId).green);
+                        console.log(('Uploaded Logo for Publisher ' + publisherId).magenta);
                         updatePublisherLogo(fireDb, publisherId, createPublicFileUrl(bucketName, storageName));
                     }
                 });
@@ -291,7 +300,7 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
                     metadata: { contentType: mime.lookup(filePath), cacheControl: "public, max-age=300" }
                 }, function (err) {
                     if (err) console.log(err.red);else {
-                        console.log(('Uploaded thumbnail for Hero ' + heroId + ', Story ' + storyId).green);
+                        console.log(('Uploaded thumbnail for Hero ' + heroId + ', Story ' + storyId).grey);
                         updateStoryPic(fireDb, heroId, storyId, createPublicFileUrl(bucketName, storageName));
                     }
                 });
@@ -324,4 +333,4 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
     });
 
     console.log('Database upload complete'.green);
-})(_, colors, path, fs, fbAdmin, gcloud, require('./../hero.config.json'), require('./../data/herodb.seed.json'), require('mime'));
+})(_, colors, path, fs, fbAdmin, gcloud, require(config.key), require('./../data/herodb.seed.json'), require('mime'));

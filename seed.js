@@ -5,15 +5,17 @@ import * as colors from 'colors'
 import * as fs from 'fs'
 import * as path from 'path'
 
+let config = require('./../config.json');
 
 ((_, colors, path, fs, fbAdmin, gcloud, acct, seed, mime) => {
 
+    console.log(JSON.stringify(acct))
     let totalCoverPics = 24
     let totalLogoPics = 24
     let totalComicThumbnails = 7
     let totalStoryPics = 60
 
-    let bucketName = 'testangular-44f78.appspot.com'
+    let bucketName = config.bucketName
 
     let createPublicFileUrl = (bucketName, storageName) => `http://storage.googleapis.com/${bucketName}/${encodeURIComponent(storageName)}`
 
@@ -22,115 +24,113 @@ import * as path from 'path'
         {
             setTimeout( () => {
                 console.log('---------------------------------------------------------')
-                console.log('Seed job completed, you are all set!!!'.green)
+                console.log('Seed job completed, you are all set!!!'.bgGreen.black)
                 console.log('---------------------------------------------------------')
             }, 500)       
         }
     }
 
+    let checkUpdateComplete = function (updateType) {
+        setTimeout(() => {
+            switch(updateType) {
+                case 'coverpic': 
+                    if(totalCoverPics > 0)
+                        totalCoverPics--
+
+                    if(totalCoverPics == 0) {
+                        console.log('---------------------------------------------------------')
+                        console.log('Covers pics updated succcessfully'.bgCyan.black)
+                        console.log('---------------------------------------------------------')
+
+                        checkProcessComplete()
+                    }
+                    break;
+                case 'logo': 
+                    if(totalLogoPics > 0)
+                        totalLogoPics--
+
+                    if(totalLogoPics == 0) {
+                        console.log('---------------------------------------------------------')
+                        console.log('Logo pics updated succcessfully'.bgCyan.black)
+                        console.log('---------------------------------------------------------')
+
+                        checkProcessComplete()
+                    }
+                    break;
+                case 'comic': 
+                    if(totalComicThumbnails > 0)
+                        totalComicThumbnails--
+
+                    if(totalComicThumbnails == 0) {
+                        console.log('---------------------------------------------------------')
+                        console.log('Comic thumbnails updated succcessfully'.bgCyan.black)
+                        console.log('---------------------------------------------------------')
+
+                        checkProcessComplete()
+                    }
+                    break;
+                case 'story': 
+                    if(totalStoryPics > 0)
+                        totalStoryPics--
+
+                    if(totalStoryPics == 0) {
+                        console.log('---------------------------------------------------------')
+                        console.log('Story pics updated succcessfully'.bgCyan.black)
+                        console.log('---------------------------------------------------------')
+
+                        checkProcessComplete()
+                    }
+                    break;
+            }
+        }, 200)
+    }
+
     let updateHeroCoverPic = (fireDb, heroid, heroCoverPicUrl) => {
-        fireDb.ref().child(`Heroes/${heroid}/coverPicUrl`).set(heroCoverPicUrl)
-        if(totalCoverPics > 0)
-            totalCoverPics--
-
-        if(totalCoverPics == 0)
-        {
-            setTimeout( () => {
-                console.log('---------------------------------------------------------')
-                console.log('Covers pics updated succcessfully'.green)
-                console.log('---------------------------------------------------------')
-
-                checkProcessComplete()
-            }, 200)
-        } 
+        fireDb.ref().child(`Heroes/${heroid}/coverPicUrl`).set(heroCoverPicUrl, err => {
+            if(!err) {
+                checkUpdateComplete('coverpic')
+            }
+        })
     }
 
     let updatePublisherCoverPic = (fireDb, publisherId, publisherCoverPicUrl) => {
-        fireDb.ref().child(`Publishers/${publisherId}/coverPicUrl`).set(publisherCoverPicUrl)
-        if(totalCoverPics > 0)
-            totalCoverPics--
-
-        if(totalCoverPics == 0)
-        {
-            setTimeout( () => {
-                console.log('---------------------------------------------------------')
-                console.log('Covers pics updated succcessfully'.green)
-                console.log('---------------------------------------------------------')
-
-                checkProcessComplete()
-            }, 200)
-        }   
+        fireDb.ref().child(`Publishers/${publisherId}/coverPicUrl`).set(publisherCoverPicUrl, err => {
+            if(!err) {
+                checkUpdateComplete('coverpic')
+            }
+        })  
     }
 
     let updateHeroLogo = (fireDb, heroid, heroLogoUrl) => {
-        fireDb.ref().child(`Heroes/${heroid}/logoUrl`).set(heroLogoUrl)
-        if(totalLogoPics > 0)
-            totalLogoPics--
-
-        if(totalLogoPics == 0)
-        {
-            setTimeout( () => {
-                console.log('---------------------------------------------------------')
-                console.log('Logo pics updated succcessfully'.green)
-                console.log('---------------------------------------------------------')
-
-                checkProcessComplete()
-            }, 200)
-        }   
+        fireDb.ref().child(`Heroes/${heroid}/logoUrl`).set(heroLogoUrl, err => {
+            if(!err) {
+                checkUpdateComplete('logo')
+            }
+        }) 
     }
 
     let updatePublisherLogo = (fireDb, publisherId, publisherLogoUrl) => {
-        fireDb.ref().child(`Publishers/${publisherId}/logoUrl`).set(publisherLogoUrl)
-        
-        if(totalLogoPics > 0)
-            totalLogoPics--
-
-        if(totalLogoPics == 0)
-        {
-            setTimeout( () => {
-                console.log('---------------------------------------------------------')
-                console.log('Logo pics updated succcessfully'.green)
-                console.log('---------------------------------------------------------')
-
-                checkProcessComplete()
-            }, 200)
-        }  
+        fireDb.ref().child(`Publishers/${publisherId}/logoUrl`).set(publisherLogoUrl, err => {
+            if(!err) {
+                checkUpdateComplete('logo')
+            }
+        })
     }
 
     let updateComicThumbnail = (fireDb, comicId, comicThumbnail) => {
-        fireDb.ref().child(`Comics/${comicId}/thumbnailUrl`).set(comicThumbnail)
-        
-        if(totalComicThumbnails > 0)
-            totalComicThumbnails--
-
-        if(totalComicThumbnails == 0)
-        {
-            setTimeout( () => {
-                console.log('---------------------------------------------------------')
-                console.log('Comic thumbnails updated succcessfully'.green)
-                console.log('---------------------------------------------------------')
-
-                checkProcessComplete()
-            }, 200)
-        }  
+        fireDb.ref().child(`Comics/${comicId}/thumbnailUrl`).set(comicThumbnail, err => {
+            if(!err) {
+                checkUpdateComplete('comic')
+            }
+        })
     }
 
     let updateStoryPic = (fireDb, heroId, storyId, storyPicUrl) => {
-        fireDb.ref().child(`Stories/${heroId}/${storyId}/imageUrl`).set(storyPicUrl)
-        
-        if(totalStoryPics > 0)
-            totalStoryPics--
-
-        if(totalStoryPics == 0)
-        {
-            setTimeout( () => {
-                console.log('---------------------------------------------------------')
-                console.log('Story pics updated succcessfully'.green)
-                console.log('---------------------------------------------------------')
-
-                checkProcessComplete()
-            }, 200)
-        }  
+        fireDb.ref().child(`Stories/${heroId}/${storyId}/imageUrl`).set(storyPicUrl, err => {
+            if(!err) {
+                checkUpdateComplete('story')
+            }
+        }) 
     }
 
     let uploadCoverPics = (fireDb, gstore, mime) => {        
@@ -155,7 +155,7 @@ import * as path from 'path'
                     if(err)
                         console.log(err.red)
                     else {
-                        console.log(`Uploaded Cover pic for Hero ${heroId}`.green)
+                        console.log(`Uploaded Cover pic for Hero ${heroId}`.yellow)
                         updateHeroCoverPic(fireDb, heroId, createPublicFileUrl(bucketName, storageName))
                     }   
                 })
@@ -173,7 +173,7 @@ import * as path from 'path'
                     if(err)
                         console.log(err.red)
                     else {
-                        console.log(`Uploaded Cover pic for Publisher ${publisherId}`.green)
+                        console.log(`Uploaded Cover pic for Publisher ${publisherId}`.yellow)
                         updatePublisherCoverPic(fireDb, publisherId, createPublicFileUrl(bucketName, storageName))
                     }   
                 })
@@ -203,7 +203,7 @@ import * as path from 'path'
                     if(err)
                         console.log(err.red)
                     else {
-                        console.log(`Uploaded Logo for Hero ${heroId}`.green)
+                        console.log(`Uploaded Logo for Hero ${heroId}`.magenta)
                         updateHeroLogo(fireDb, heroId, createPublicFileUrl(bucketName, storageName))
                     }   
                 })
@@ -222,7 +222,7 @@ import * as path from 'path'
                     if(err)
                         console.log(err.red)
                     else {
-                        console.log(`Uploaded Logo for Publisher ${publisherId}`.green)
+                        console.log(`Uploaded Logo for Publisher ${publisherId}`.magenta)
                         updatePublisherLogo(fireDb, publisherId, createPublicFileUrl(bucketName, storageName))
                     }   
                 })
@@ -286,7 +286,7 @@ import * as path from 'path'
                     if(err)
                         console.log(err.red)
                     else {
-                        console.log(`Uploaded thumbnail for Hero ${heroId}, Story ${storyId}`.green)
+                        console.log(`Uploaded thumbnail for Hero ${heroId}, Story ${storyId}`.grey)
                         updateStoryPic(fireDb, heroId, storyId, createPublicFileUrl(bucketName, storageName))
                     }   
                 })
@@ -322,4 +322,4 @@ import * as path from 'path'
 
     console.log('Database upload complete'.green)
 
-})(_, colors, path, fs, fbAdmin, gcloud, require('./../hero.config.json'), require('./../data/herodb.seed.json'), require('mime'))
+})(_, colors, path, fs, fbAdmin, gcloud, require(config.key), require('./../data/herodb.seed.json'), require('mime'))
