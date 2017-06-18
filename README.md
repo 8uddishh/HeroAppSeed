@@ -51,6 +51,34 @@ As a google user one is eligible for a google cloud account. Note that the accou
 * Let the Key type be the default json
 * Clicking on the Create button should download the config key required by our seed project
 
+## Set up the Seed project to use the firebase key
+Copy the downloaded json file containing the application key to the seed project. Open the **config.json** in our seed project and set the **key** to the path of the copied app key json. 
+**Tomare!!** the project when run creates a seed.js file inside a dist folder, so the path we set for the key property of json has to be relative to that file not the seed.js file at root level. Eg if the app key file say app.key.json is at root level the path would be './../app.key.json' and not './app.key.json'. 
+The config also has a property **bucketName** this is the name of the storage bucket of your firebase project.
+
+## Get set Go!!!
+
+Now we are all set to run the seed
+
+```shell
+npm run start
+```
+Once the seed is complete log into your firebase project and validate that the images and data are available.
+
+## Bugs 
+Sometimes the certain data might not be updated or can fail, this is however not a regular scenario. Anytime we see a undefined on the console or we do not see the message **Seed job completed** we recommend you run the seed again using 'npm run start'. The seed can be run n number of times and it should not cause any duplications.
+
+##Tomare 
+The seed contains super hero images. No copyright infringement is intended, this is only for demo purpose only. There is no live project using these images. Some of the images can be inappropriate for children, so do take proper notice when using them.
+
+We donot intend to update this repository regularly as this is not an utility. So no pull requests please. You are welcome to use this repository make modifications and use it in your own repository.
+
+Thanks n Cheers!!!!
+
+
+
+
+
 
 
 
