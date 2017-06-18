@@ -68,7 +68,7 @@ Once the seed is complete log into your firebase project and validate that the i
 ## Bugs 
 Sometimes the certain data might not be updated or can fail, this is however not a regular scenario. Anytime we see a undefined on the console or we do not see the message **Seed job completed** we recommend you run the seed again using 'npm run start'. The seed can be run n number of times and it should not cause any duplications.
 
-##Tomare 
+## Tomare 
 The seed contains super hero images. No copyright infringement is intended, this is only for demo purpose only. There is no live project using these images. Some of the images can be inappropriate for children, so do take proper notice when using them.
 
 We donot intend to update this repository regularly as this is not an utility. So no pull requests please. You are welcome to use this repository make modifications and use it in your own repository.
