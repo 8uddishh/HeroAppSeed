@@ -1,5 +1,5 @@
 # HeroAppSeed
-This repository holds the seed data for [Angular Hero-Db]("https://github.com/8uddishh/AngularHeroDb") application. It contains the data and files required to set up a firebase database to be used with **Angular Hero-Db**. 
+This repository holds the seed data for <a href="https://github.com/8uddishh/AngularHeroDb" target="_blank" title="Firebase Concole">Angular Hero-Db</a> application. It contains the data and files required to set up a firebase database to be used with **Angular Hero-Db**. 
 
 ## Prerequisites
 
