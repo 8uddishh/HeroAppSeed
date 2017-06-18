@@ -1,0 +1,1455 @@
+{
+  "Comics" : {
+    "Comic-KmILU3F5rvqz_2--DWk" : {
+      "heroIds" : {
+        "Hero-KkbXnYW3HVtUlZ7dyk5" : true,
+        "Hero-KkbYhvN4isJ-Zc9OosO" : true
+      },
+      "name" : "Batman Vs. Superman",
+      "publisherId" : "Publisher-Kk26fUHT0Fb6hkbFREs",
+      "synopsis" : "The two most popular superheroes of all time aren’t always on the same side! This collection captures some of the most incredible and memorable clashes between the Man of Steel and the Dark Knight from the pages of BATMAN: THE DARK KNIGHT RETURNS #4, BATMAN #612, BATMAN #35-36, SUPERMAN/BATMAN #32 and #78, and JUSTICE LEAGUE #2.",
+      "thumbnailUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/ComicThumbnails%2FComic-KmILU3F5rvqz_2--DWk?alt=media&token=0c44fc13-03c1-4b85-b2ad-9a4679f2dff1"
+    },
+    "Comic-KmIUWFlD_HZv7Pfy3k3" : {
+      "heroIds" : {
+        "Hero-KkbXnYW3HVtUlZ7dyk5" : true,
+        "Hero-KkbYhvN4isJ-Zc9OosO" : true,
+        "Hero-KkbdiXIWE8kmNYLIAG4" : true
+      },
+      "name" : "Trinity Vol 1: Better together",
+      "publisherId" : "Publisher-Kk26fUHT0Fb6hkbFREs",
+      "synopsis" : "The Dark Knight. The Man of Steel. The Amazon Warrior. The three greatest heroes in the DC Universe unite when the threats to our planet are bigger than any one of them can handle. But now, the deadly White Mercy has Superman, Wonder Woman and Batman in its terrifying grasp! But who would dare to orchestrate this attack—and why? All will be revealed as the three most powerful heroes in the DC Universe fight for their very souls! Collects issues #1-6.",
+      "thumbnailUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/ComicThumbnails%2FComic-KmIUWFlD_HZv7Pfy3k3?alt=media&token=d46ad078-7c72-45a5-971b-1c1e6ac6d99b"
+    },
+    "Comic-KmIUmhUwhouiz8MbbtB" : {
+      "heroIds" : {
+        "Hero-Kkbc5uZCUTRNBF5uOri" : true
+      },
+      "name" : "The Amazing Spider-man #28",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "synopsis" : "OSBORN VS. SPIDER-MAN! NO HOLDS BARRED! The outcome of this battle will change both of these men. And that's nothing to say of Osborn's master plan that Spider-Man is powerless to save! ONLY SILVER SABLE AND MOCKINGBIRD STAND A CHANCE!",
+      "thumbnailUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/ComicThumbnails%2FComic-KmIUmhUwhouiz8MbbtB?alt=media&token=2ada27f2-6648-4272-adf0-9f993c8c4a39"
+    },
+    "Comic-KmIUzla1tVi9SXjee2T" : {
+      "heroIds" : {
+        "Hero-KkbV7tEVo4azosh9ZPP" : true,
+        "Hero-KkbWeoe70Wt5cGpaC4q" : true
+      },
+      "name" : "Secret Empire(2017) #2",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "synopsis" : "Enshrouded in darkness, plagued by the minions of Baron Mordo and cut off from all assistance, The Defenders and Doctor Strange struggle to save the lives of the innocent people consigned to this hell on Earth. Will Dagger prove to be the key to stopping this nightmare? Meanwhile, will the appearance of a new hero provide Iron Man with the key to Captain America’s startling change? THE SECRET EMPIRE WILL DEFEND YOU!",
+      "thumbnailUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/ComicThumbnails%2FComic-KmIUzla1tVi9SXjee2T?alt=media&token=93a9d574-1428-4adc-8127-c2645cb2d62c"
+    },
+    "Comic-KmIVE6iTThG6faOmIo7" : {
+      "heroIds" : {
+        "Hero-KkbbZOf2xepcOEmOMMI" : true,
+        "Hero-Kkbc5uZCUTRNBF5uOri" : true
+      },
+      "name" : "Marvel Universe - Ultimate Spider-man Vs. Sinister Six",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "synopsis" : "THE KIDS ARE ALL RIGHT! When a new Inhuman called THE GHOST sets his thieving sights on the Avenger's AI sidekick, FRIDAY, CAPTAIN AMERICA and IRON MAN must reach out to a group of young new Inhumans for help. Together, with the help of GOLIATH, INFERNO and MS. MARVEL, will they be able to stop the Ghost or will they be too late?",
+      "thumbnailUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/ComicThumbnails%2FComic-KmIVE6iTThG6faOmIo7?alt=media&token=132f4fb1-c640-495a-a936-e259a341569d"
+    },
+    "Comic-KmotS1OiNzXr-csJPN2" : {
+      "heroIds" : {
+        "Hero-Kl1a10FPWd6NQEHx56E" : true
+      },
+      "name" : "The Last Gleaming",
+      "publisherId" : "Publisher-Kk6jY4NZ_sqbTem0DoD",
+      "synopsis" : "Last Gleaming is the eighth and final story arc that spreads from the thirty-sixth to the fortieth issue of the Buffy the Vampire Slayer Season Eight series of comic books. This final arc was written by Joss Whedon and Scott Allie and is a direct continuation from the television series of the same name. Issue thirty-six was released on Sep. 1, 2010. The final issue of Season Eight (#40) was published on January 19th, 2011. Issue 40 concludes Season Eight's run before continuing into Season Nine mid-2011.",
+      "thumbnailUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/ComicThumbnails%2FComic-KmotS1OiNzXr-csJPN2?alt=media&token=c37ad469-841e-4938-9bc7-6e85df5e6652"
+    },
+    "Comic-KmouW8x7wc2jTx78kOj" : {
+      "heroIds" : {
+        "Hero-Kl7oN2AyzjG9oltQbzK" : true
+      },
+      "name" : "Saga Volume 7",
+      "publisherId" : "Publisher-Kk2xt2MmhJYBmCv5UUV",
+      "synopsis" : "From the worldwide bestselling team of FIONA STAPLES and BRIAN K. VAUGHAN, “The War for Phang” is an epic, self-contained SAGA event! Finally reunited with her ever-expanding family, Hazel travels to a war-torn comet that Wreath and Landfall have been battling over for ages. New friendships are forged and others are lost forever in this action-packed volume about families, combat, and the refugee experience. - See more at: https://imagecomics.com/comics/releases/saga-vol.-7-tp#sthash.vaqXu30U.dpuf",
+      "thumbnailUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/ComicThumbnails%2FComic-KmouW8x7wc2jTx78kOj?alt=media&token=e9db7cf0-d03c-4370-af73-425bf31fcc42"
+    }
+  },
+  "HeroComics" : {
+    "Hero-KkbU510uEj96honHKbS" : {
+      "Comic-KmNXSJGAYM8sOBxwRtL" : true
+    },
+    "Hero-KkbV7tEVo4azosh9ZPP" : {
+      "Comic-KmIUzla1tVi9SXjee2T" : true
+    },
+    "Hero-KkbWeoe70Wt5cGpaC4q" : {
+      "Comic-KmIUzla1tVi9SXjee2T" : true
+    },
+    "Hero-KkbXnYW3HVtUlZ7dyk5" : {
+      "Comic-KmILU3F5rvqz_2--DWk" : true,
+      "Comic-KmIUWFlD_HZv7Pfy3k3" : true
+    },
+    "Hero-KkbYhvN4isJ-Zc9OosO" : {
+      "Comic-KmILU3F5rvqz_2--DWk" : true,
+      "Comic-KmIUWFlD_HZv7Pfy3k3" : true
+    },
+    "Hero-Kkbb6cCSFi8EB3SofMG" : {
+      "Comic-KmNXSJGAYM8sOBxwRtL" : true
+    },
+    "Hero-KkbbZOf2xepcOEmOMMI" : {
+      "Comic-KmIVE6iTThG6faOmIo7" : true,
+      "Comic-KmNXSJGAYM8sOBxwRtL" : true
+    },
+    "Hero-Kkbc5uZCUTRNBF5uOri" : {
+      "Comic-KmIUmhUwhouiz8MbbtB" : true,
+      "Comic-KmIVE6iTThG6faOmIo7" : true
+    },
+    "Hero-KkbdiXIWE8kmNYLIAG4" : {
+      "Comic-KmIUWFlD_HZv7Pfy3k3" : true
+    },
+    "Hero-Kl1a10FPWd6NQEHx56E" : {
+      "Comic-KmotS1OiNzXr-csJPN2" : true
+    },
+    "Hero-Kl2CSa49lBWlMIQo6oC" : {
+      "Comic-KmKZfdaSHQhnYeKeqWC" : true,
+      "Comic-KmNaYRz2MYe3vFX90ko" : true
+    },
+    "Hero-Kl7oN2AyzjG9oltQbzK" : {
+      "Comic-KmKZfdaSHQhnYeKeqWC" : true,
+      "Comic-KmNaYRz2MYe3vFX90ko" : true,
+      "Comic-KmouW8x7wc2jTx78kOj" : true
+    }
+  },
+  "Heroes" : {
+    "Hero-KkbU510uEj96honHKbS" : {
+      "about" : "T'Challa is a brilliant tactician, strategist, scientist, tracker and a master of all forms of unarmed combat whose unique hybrid fighting style incorporates acrobatics and aspects of animal mimicry. T'Challa being a royal descendent of a warrior race is also a master of armed combat, able to use a variety of weapons but prefers unarmed combat. He is a master planner who always thinks several steps ahead and will go to extreme measures to achieve his goals and protect the kingdom of Wakanda.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbU510uEj96honHKbS?alt=media&token=6d3ce5eb-7499-46af-8d28-fb3c5f8755d5",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbU510uEj96honHKbS?alt=media&token=3f78308f-1b2c-471b-8fcc-6fa55f27e574",
+      "name" : "Black Panther",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "T'Challa",
+      "searchKey" : "black panther"
+    },
+    "Hero-KkbV7tEVo4azosh9ZPP" : {
+      "about" : "Abandoned by his mother, Matt Murdock was raised by his father, boxer \"Battling Jack\" Murdock, in Hell's Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbV7tEVo4azosh9ZPP?alt=media&token=08724f3f-5c43-41e7-a0ad-bf5ad13937a6",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbV7tEVo4azosh9ZPP?alt=media&token=8258f6c1-4613-4d1d-ad8d-e0d5ca26583e",
+      "name" : "Daredevil",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : " Matthew Michael Murdock",
+      "searchKey" : "daredevil"
+    },
+    "Hero-KkbWCTZeqitly9kpq5c" : {
+      "about" : "Deadpool is an extraordinary hand-to-hand combatant and is skilled in multiple unarmed combat techniques. He is a master of assassination techniques, is an excellent marksman, and is highly skilled with bladed weapons (frequently carrying two swords strapped to his back). He is fluent in Japanese, German, Spanish, amongst other languages.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbWCTZeqitly9kpq5c?alt=media&token=c0eb5e6d-4e74-4a84-9b0d-7531773cd142",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbWCTZeqitly9kpq5c?alt=media&token=01291311-f737-42f3-af6a-e26c9c5de037",
+      "name" : "Deadpool",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "Wade Wilson",
+      "searchKey" : "deadpool"
+    },
+    "Hero-KkbWeoe70Wt5cGpaC4q" : {
+      "about" : "Doctor Strange is one of the most powerful sorcerers in existence. Like most sorcerers, he draws his power from three primary sources: the invocation of powerful mystic entities or objects, the manipulation of the universe's ambient magical energy, and his own psychic resources. ",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbWeoe70Wt5cGpaC4q?alt=media&token=c3322f43-57b2-4a78-998c-20fc98c92b88",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbWeoe70Wt5cGpaC4q?alt=media&token=307eff49-f3cb-4d04-a322-8e1bb9fbfa3d",
+      "name" : "Doctor Strange",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "Stephen Vincent Strange",
+      "searchKey" : "doctor strange"
+    },
+    "Hero-KkbXnYW3HVtUlZ7dyk5" : {
+      "about" : "Dark Knight. Caped Crusader. World’s Greatest Detective. Whatever you know him as, wherever you know him from—the blockbuster movies, TV shows, video games, cartoons, or millions of comics—Batman is proof you don’t need superpowers to be a superhero… and the poster boy for what a bad childhood can do to you.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbXnYW3HVtUlZ7dyk5?alt=media&token=c1dc41d3-c666-4773-a940-c130abe2172f",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbXnYW3HVtUlZ7dyk5?alt=media&token=b1bc2a31-84da-4a26-8941-7100a9755ffd",
+      "name" : "Batman",
+      "publisherId" : "Publisher-Kk26fUHT0Fb6hkbFREs",
+      "realName" : "Bruce Wayne",
+      "searchKey" : "batman"
+    },
+    "Hero-KkbYhvN4isJ-Zc9OosO" : {
+      "about" : "Look! Up in the sky! It’s a bird! It’s a plane! It’s…Well, you know how it ends, don’t you? It’s a sentence so iconic, there are probably kids shouting it in Swahili as you read this.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbYhvN4isJ-Zc9OosO?alt=media&token=ad7a8e55-91cb-446d-bde0-c7499c125476",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbYhvN4isJ-Zc9OosO?alt=media&token=3a69c3f2-42df-4b53-869b-bf0d4bfe6ce0",
+      "name" : "Superman",
+      "publisherId" : "Publisher-Kk26fUHT0Fb6hkbFREs",
+      "realName" : "Clark Kent",
+      "searchKey" : "superman"
+    },
+    "Hero-KkbZCbkpc1lAWGcciea" : {
+      "about" : "Indy cars, bullet trains, supersonic aircraft… The Flash leaves them all in the dust.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbZCbkpc1lAWGcciea?alt=media&token=00590b65-fccd-474e-9497-fe6eb20919a4",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbZCbkpc1lAWGcciea?alt=media&token=1cad5110-0780-4371-a1cd-8b244902d1ca",
+      "name" : "Flash",
+      "publisherId" : "Publisher-Kk26fUHT0Fb6hkbFREs",
+      "realName" : "Barry Allen",
+      "searchKey" : "flash"
+    },
+    "Hero-Kkb_A5a64zsF004slSe" : {
+      "about" : "Make all the sushi jokes, YouTube spoofs, and SNL sketches you want, Aquaman’s been an icon for over seventy years. The King of the Seven Seas. Reluctant ruler of Atlantis. A man who holds his own against heroes like Superman and Wonder Woman. He’s so recognizable that when officials speak about the perils of sea pollution, they’ll whip out Aquaman references to sound hip.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-Kkb_A5a64zsF004slSe?alt=media&token=e20e84b0-8321-468b-9888-50c1839a6f21",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-Kkb_A5a64zsF004slSe?alt=media&token=76af8195-b705-4e80-9953-4f9ca75555a7",
+      "name" : "Aquaman",
+      "publisherId" : "Publisher-Kk26fUHT0Fb6hkbFREs",
+      "realName" : "Arthur Curry",
+      "searchKey" : "aquaman"
+    },
+    "Hero-Kkbb6cCSFi8EB3SofMG" : {
+      "about" : "Caught in the blast of gamma radiation, brilliant scientist Bruce Banner is cursed to transform in times of stress into the living engine of destruction known as THE INCREDIBLE HULK.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-Kkbb6cCSFi8EB3SofMG?alt=media&token=0aa00749-d0ae-4b4e-b29d-2054f01335b4",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-Kkbb6cCSFi8EB3SofMG?alt=media&token=83224e2f-f840-4e88-be8f-cb92d82ff66a",
+      "name" : "Hulk",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "Robert Bruce Banner",
+      "searchKey" : "hulk"
+    },
+    "Hero-KkbbZOf2xepcOEmOMMI" : {
+      "about" : "\nWounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbbZOf2xepcOEmOMMI?alt=media&token=e06d9b12-a7f0-4f6c-8b61-9a584b00d480",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbbZOf2xepcOEmOMMI?alt=media&token=fdc689c8-215a-484c-b098-9389975e18f8",
+      "name" : "Ironman",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "Tony Stark",
+      "searchKey" : "ironman"
+    },
+    "Hero-Kkbc3Ydy2I_AltdZSvP" : {
+      "about" : "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate. He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-Kkbc3Ydy2I_AltdZSvP?alt=media&token=807639e3-2870-4a68-baec-feee801f5208",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-Kkbc3Ydy2I_AltdZSvP?alt=media&token=e663c43d-9191-4f38-9997-a0be61f8efff",
+      "name" : "Thor",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "Thor Odinson",
+      "searchKey" : "thor"
+    },
+    "Hero-Kkbc5uZCUTRNBF5uOri" : {
+      "about" : "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-Kkbc5uZCUTRNBF5uOri?alt=media&token=92d46b01-9854-4894-a587-2a91850527cf",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-Kkbc5uZCUTRNBF5uOri?alt=media&token=c7304854-ef89-4eb0-a1db-c97b746966c4",
+      "name" : "Spider-Man",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "Peter Parker",
+      "searchKey" : "spider-man"
+    },
+    "Hero-KkbdiXIWE8kmNYLIAG4" : {
+      "about" : "OK, let’s just come out and say it: Wonder Woman is the most famous heroine of all time. No offense to the Lara Crofts, Buffys, or Disney princesses of the world, but none of them have been plastered on as many magazine covers, adorned as many T-shirts, or sold the countless comics, dolls, and action figures that Wonder Woman has. The full package of beauty, brains, and brawn, she’s been a feminist icon since her star-spangled intro in 1941.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbdiXIWE8kmNYLIAG4?alt=media&token=a460a0b6-fa12-4f61-b210-7bf5e55cec87",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbdiXIWE8kmNYLIAG4?alt=media&token=f66b307f-aa99-493d-89cf-2314e012496f",
+      "name" : "Wonder woman",
+      "publisherId" : "Publisher-Kk26fUHT0Fb6hkbFREs",
+      "realName" : "Princess Diana",
+      "searchKey" : "wonder woman"
+    },
+    "Hero-KkbfeYOZMFFCHDYaJbX" : {
+      "about" : "Natasha Romanova, known by many aliases, is an expert spy, athlete, and assassin. Trained at a young age by the KGB's infamous Red Room Academy, the Black Widow was formerly an enemy to the Avengers. She later became their ally after breaking out of the U.S.S.R.'s grasp, and also serves as a top S.H.I.E.L.D. agent.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbfeYOZMFFCHDYaJbX?alt=media&token=bfbe90b3-477c-45ee-8d66-ba08a7456972",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbfeYOZMFFCHDYaJbX?alt=media&token=b83c0e55-34cc-4e0c-9f05-27fdcb85767c",
+      "name" : "Black Widow",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "Natasha Romanova",
+      "searchKey" : "black widow"
+    },
+    "Hero-KkbhHk17IbGpUA8RRZ6" : {
+      "about" : "Kara-Zor-El, also known as Supergirl and Linda Lang, is a Kryptonian superhero based in Metropolis. She is the cousin of Superman, Lana Lang's foster niece and a member of the Justice League of America.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbhHk17IbGpUA8RRZ6?alt=media&token=702e10a9-e746-47f1-a0a4-92a7b060e804",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbhHk17IbGpUA8RRZ6?alt=media&token=e1f8e89d-aabd-45b4-a715-8adbe115e414",
+      "name" : "Supergirl",
+      "publisherId" : "Publisher-Kk26fUHT0Fb6hkbFREs",
+      "realName" : "Kara Zor-El",
+      "searchKey" : "supergirl"
+    },
+    "Hero-KkbihfkzrhWhQJJOBb1" : {
+      "about" : "Seriously wounded, young lawyer Jennifer Walters was given a blood transfusion by her cousin Bruce Banner. Usually in better control of her powers and temper than the Hulk, She-Hulk has been a high profile New York lawyer as well as an upstanding member of both the Avengers and Fantastic Four.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KkbihfkzrhWhQJJOBb1?alt=media&token=f57bf109-60e9-4bb0-bc12-5da36ed37fac",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KkbihfkzrhWhQJJOBb1?alt=media&token=aa6aa8b4-6202-4302-bb39-49632b1d7925",
+      "name" : "She-Hulk",
+      "publisherId" : "Publisher-Kk26TFc4rIcd8VtCrch",
+      "realName" : "Jennifer \"Jen\" Walters",
+      "searchKey" : "she-hulk"
+    },
+    "Hero-Kl1a10FPWd6NQEHx56E" : {
+      "about" : "It’s been twenty years since the hit show Buffy the Vampire Slayer first premiered on Fox, and Dark Horse Comics is celebrating with the release of the third installment of Buffy: The High School Years, featuring executive producer Joss Whedon, author Kel McDonald (Misfits of Avalon), and artist Yishan Li (Buffy: The High School Years—Freaks and Geeks) in Buffy: The High School Years—Parental Parasite.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-Kl1a10FPWd6NQEHx56E?alt=media&token=2e8f2c0d-f8ff-4f95-9453-fe7b41f99f6b",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-Kl1a10FPWd6NQEHx56E?alt=media&token=bfc660d8-9d6e-4068-94c7-d87caad682ef",
+      "name" : "Buffy the vampire Slayer",
+      "publisherId" : "Publisher-Kk6jY4NZ_sqbTem0DoD",
+      "realName" : "Buffy Anne Summers",
+      "searchKey" : "buffy the vampire slayer"
+    },
+    "Hero-Kl2CSa49lBWlMIQo6oC" : {
+      "about" : "Andrea is a main character first encountered in Issue 2 of Image Comics' The Walking Dead and is the former tritagonist of the series. Andrea is the older sister of Amy and a tough and very skilled woman, being very talented with firearms, and becoming one of the group's key defenders because of that. ",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-Kl2CSa49lBWlMIQo6oC?alt=media&token=83c551cb-68dd-43ef-a293-b8cc0a77333b",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-Kl2CSa49lBWlMIQo6oC?alt=media&token=725998b2-f4da-4d48-9884-36591065d1cb",
+      "name" : "Andrea",
+      "publisherId" : "Publisher-Kk2xt2MmhJYBmCv5UUV",
+      "realName" : "Andrea",
+      "searchKey" : "andrea"
+    },
+    "Hero-Kl7oN2AyzjG9oltQbzK" : {
+      "about" : "The mother of Hazel, and wife of Marko, Alana is an army deserter on the run, while trying to keep her daughter safe during an intergalactic war.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-Kl7oN2AyzjG9oltQbzK?alt=media&token=9a94cb2e-61a0-4013-9d82-dab957484c98",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-Kl7oN2AyzjG9oltQbzK?alt=media&token=b188dc09-241e-414e-93d8-1bebe458f017",
+      "name" : "Alana",
+      "publisherId" : "Publisher-Kk2xt2MmhJYBmCv5UUV",
+      "realName" : "Alana",
+      "searchKey" : "alana"
+    },
+    "Hero-KmoqZ8FXoUpsamwJ7Oc" : {
+      "about" : "The Predator comic book line is a long-running series of comic books published by Dark Horse Comics based on the Predator franchise. The line has included a number of limited series, one-shots and short stories, starting with the comic Predator: Concrete Jungle in June 1989.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FHero-KmoqZ8FXoUpsamwJ7Oc?alt=media&token=bf0f7996-494b-45d6-a613-2bbce81d83ab",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FHero-KmoqZ8FXoUpsamwJ7Oc?alt=media&token=6fe0e539-99be-4fd4-af83-f462d338cded",
+      "name" : "Predator",
+      "publisherId" : "Publisher-Kk6jY4NZ_sqbTem0DoD",
+      "realName" : "",
+      "searchKey" : "predator"
+    }
+  },
+  "PublisherComics" : {
+    "Publisher-Kk26TFc4rIcd8VtCrch" : {
+      "Comic-KmIUmhUwhouiz8MbbtB" : true,
+      "Comic-KmIUzla1tVi9SXjee2T" : true,
+      "Comic-KmIVE6iTThG6faOmIo7" : true
+    },
+    "Publisher-Kk26fUHT0Fb6hkbFREs" : {
+      "Comic-KmILU3F5rvqz_2--DWk" : true,
+      "Comic-KmIUWFlD_HZv7Pfy3k3" : true
+    },
+    "Publisher-Kk2xt2MmhJYBmCv5UUV" : {
+      "Comic-KmouW8x7wc2jTx78kOj" : true
+    },
+    "Publisher-Kk6jY4NZ_sqbTem0DoD" : {
+      "Comic-KmotS1OiNzXr-csJPN2" : true
+    }
+  },
+  "PublisherHeroes" : {
+    "Publisher-Kk26TFc4rIcd8VtCrch" : {
+      "Hero-KkbU510uEj96honHKbS" : true,
+      "Hero-KkbV7tEVo4azosh9ZPP" : true,
+      "Hero-KkbWCTZeqitly9kpq5c" : true,
+      "Hero-KkbWeoe70Wt5cGpaC4q" : true,
+      "Hero-Kkbb6cCSFi8EB3SofMG" : true,
+      "Hero-KkbbZOf2xepcOEmOMMI" : true,
+      "Hero-Kkbc3Ydy2I_AltdZSvP" : true,
+      "Hero-Kkbc5uZCUTRNBF5uOri" : true,
+      "Hero-KkbfeYOZMFFCHDYaJbX" : true,
+      "Hero-KkbihfkzrhWhQJJOBb1" : true
+    },
+    "Publisher-Kk26fUHT0Fb6hkbFREs" : {
+      "Hero-KkbXnYW3HVtUlZ7dyk5" : true,
+      "Hero-KkbYhvN4isJ-Zc9OosO" : true,
+      "Hero-KkbZCbkpc1lAWGcciea" : true,
+      "Hero-Kkb_A5a64zsF004slSe" : true,
+      "Hero-KkbdiXIWE8kmNYLIAG4" : true,
+      "Hero-KkbhHk17IbGpUA8RRZ6" : true
+    },
+    "Publisher-Kk2xt2MmhJYBmCv5UUV" : {
+      "Hero-Kl2CSa49lBWlMIQo6oC" : true,
+      "Hero-Kl7oN2AyzjG9oltQbzK" : true
+    },
+    "Publisher-Kk6jY4NZ_sqbTem0DoD" : {
+      "Hero-Kl1a10FPWd6NQEHx56E" : true,
+      "Hero-KmoqZ8FXoUpsamwJ7Oc" : true
+    }
+  },
+  "Publishers" : {
+    "Publisher-Kk26TFc4rIcd8VtCrch" : {
+      "colorCode" : "#c62828",
+      "companyInfo" : "Marvel Entertainment, LLC, a wholly-owned subsidiary of The Walt Disney Company, is one of the world's most prominent character-based entertainment companies, built on a proven library of over 8,000 characters featured in a variety of media over seventy years.  Marvel utilizes its character franchises in entertainment, licensing and publishing.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FPublisher-Kk26TFc4rIcd8VtCrch?alt=media&token=63ade7a3-9282-4576-9719-aac2b073aa1a",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FPublisher-Kk26TFc4rIcd8VtCrch?alt=media&token=30a1388f-c4e3-4f5a-b087-0174bd16003f",
+      "name" : "Marvel",
+      "searchKey" : "marvel"
+    },
+    "Publisher-Kk26fUHT0Fb6hkbFREs" : {
+      "colorCode" : "#0d47a1",
+      "companyInfo" : "DC Entertainment, home to iconic brands DC (Superman, Batman, Green Lantern, Wonder Woman, The Flash), Vertigo (Sandman, Fables) and MAD, is the creative division charged with strategically integrating its content across Warner Bros. Entertainment and Time Warner. DC Entertainment works in concert with many key Warner Bros. divisions to unleash its stories and characters across all media, including but not limited to film, television, consumer products, home entertainment and interactive games. Publishing thousands of comic books, graphic novels and magazines each year, DC Entertainment is one of the largest English-language publisher of comics in the world.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FPublisher-Kk26fUHT0Fb6hkbFREs?alt=media&token=850feb48-78ac-4ac5-bb65-b3ff9927d938",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FPublisher-Kk26fUHT0Fb6hkbFREs?alt=media&token=e116720d-8184-4572-a25c-b8d6604c5a2e",
+      "name" : "DC",
+      "searchKey" : "dc"
+    },
+    "Publisher-Kk2xt2MmhJYBmCv5UUV" : {
+      "colorCode" : "#004d40",
+      "companyInfo" : "Image is a comics and graphic novels publisher formed in 1992 by seven of Marvel Comics’ best-selling artists. Since that time, Image has gone on to become the third largest comics publisher in the United States.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FPublisher-Kk2xt2MmhJYBmCv5UUV?alt=media&token=67b8a80e-510d-4e65-aeaa-609769ca9fc0",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FPublisher-Kk2xt2MmhJYBmCv5UUV?alt=media&token=a87ecf7d-c581-4f35-adc6-433a3a1e5dca",
+      "name" : "Image",
+      "searchKey" : "image"
+    },
+    "Publisher-Kk6jY4NZ_sqbTem0DoD" : {
+      "colorCode" : "#000000",
+      "companyInfo" : "Founded in 1986 by Mike Richardson, Dark Horse Comics has grown to become the third-largest comics publisher in the United States and is acclaimed internationally for the quality and diversity of its line.\n\nNow the company that revolutionized the comic industry proudly presents it’s ground-breaking digital publishing program Dark Horse Digital.",
+      "coverPicUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/CoverPics%2FPublisher-Kk6jY4NZ_sqbTem0DoD?alt=media&token=10facca7-87c3-4171-854d-fe5eff05de55",
+      "logoUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/Logos%2FPublisher-Kk6jY4NZ_sqbTem0DoD?alt=media&token=dd7358a4-eabb-4cea-a1f2-eba8f4746081",
+      "name" : "Dark Horse",
+      "searchKey" : "dark horse"
+    }
+  },
+  "Quotes" : {
+    "Hero-KkbU510uEj96honHKbS" : {
+      "Quote-KlWjYd_4fbVicpY8jtt" : {
+        "emotion" : "1",
+        "name" : "Move, Captain. I won't ask a second time."
+      },
+      "Quote-KlWjpRZUC4sHvDEDaJk" : {
+        "emotion" : "4",
+        "name" : "Vengeance has consumed you. It's consuming them. I am done letting it consume me."
+      },
+      "Quote-KlWjxRttDEdfTMgYbSE" : {
+        "emotion" : "2",
+        "name" : "For a man who disapproves of diplomacy, you're getting quite good at it."
+      },
+      "Quote-KlWkBI4NlduxawSMSt7" : {
+        "emotion" : 0,
+        "name" : "In my culture, death is not the end. it's more of a stepping off point. You reach out with both hands and Bast and Sekhmed, they lead you into the greater elsewhere. Forever."
+      },
+      "Quote-KlWk_V9-kOsOXpFCSxV" : {
+        "emotion" : 4,
+        "name" : " I don't care."
+      },
+      "Quote-KlWmqoVmo7uOKwt69PH" : {
+        "emotion" : "3",
+        "name" : "The Black Panther has been a protector of Wakanda for generations. A mantle passed from warrior to warrior. Now because your friend murdered my father, I also wear the mantle of king. So I ask you, as both warrior and king, how long do you think you can keep your friend safe from me?"
+      }
+    },
+    "Hero-KkbV7tEVo4azosh9ZPP" : {
+      "Quote-KmhSTs9vRiIJeeR35L6" : {
+        "emotion" : "5",
+        "name" : "Well it's good news Tuesday for you -- The autopsy on the girl came back and you are officially not a suspect."
+      },
+      "Quote-KmhScFfL-9VlPJ5NlZe" : {
+        "emotion" : "1",
+        "name" : "I can't read your heartbeat-- And I don't know if that means you've perfected lying-- Or if you just don't know the difference anymore. Please leave while I'm unsure. "
+      },
+      "Quote-KmhSiFqrHyJHqVshQKP" : {
+        "emotion" : "4",
+        "name" : "Please don't call me son. "
+      },
+      "Quote-KmhSpqt-78MEYnFbSkD" : {
+        "emotion" : "3",
+        "name" : "You were always an inspiration to us... It can't end like this!"
+      }
+    },
+    "Hero-KkbWCTZeqitly9kpq5c" : {
+      "Quote-KmhcOE7kut4byXN5Vw5" : {
+        "emotion" : "2",
+        "name" : "Bad Deadpool… Good Deadpool!"
+      },
+      "Quote-KmhcTGJH3TEvOI1OB-I" : {
+        "emotion" : "2",
+        "name" : "Say the magic words, Fat Gandalf."
+      },
+      "Quote-Kmhc_yv2JF0yi7bqmzC" : {
+        "emotion" : "2",
+        "name" : "If I ever decide to become a crime-fighting shit swizzler, who rooms with a bunch of other little whiners at Neverland Mansion with some creepy, old, bald, Heaven’s Gate-looking motherfucker… on that day, I’ll send your shiny, happy ass a friend request."
+      },
+      "Quote-KmhcelANJSyZpeCiFxg" : {
+        "emotion" : "2",
+        "name" : "All the dinosaurs feared the T-Rex."
+      }
+    },
+    "Hero-KkbWeoe70Wt5cGpaC4q" : {
+      "Quote-KmhestpVHuf8T-ojj3v" : {
+        "emotion" : "4",
+        "name" : " I don't believe in fairy tales about chakras or energy or the power of belief."
+      },
+      "Quote-Kmhez2syK5LpZXPkWDt" : {
+        "emotion" : "1",
+        "name" : "Why are you doing this?"
+      },
+      "Quote-Kmhf1pZCptiYlqi7kQM" : {
+        "emotion" : "5",
+        "name" : "Teach me."
+      }
+    },
+    "Hero-KkbXnYW3HVtUlZ7dyk5" : {
+      "Quote-KmhkWCsgE9tHXpNQZtZ" : {
+        "emotion" : 0,
+        "name" : "Batman has no limits, This city needs me."
+      },
+      "Quote-KmhkpWQxziTguGoNqQE" : {
+        "emotion" : 0,
+        "name" : "Why Do We Fall? So That We Learn To Pick Ourselves Up."
+      },
+      "Quote-KmhlBwzDNafH9JXcGOC" : {
+        "emotion" : "1",
+        "name" : "I am vengeance, I am the night, I am Batman"
+      },
+      "Quote-KmhlK2lojNN3mqA9hRy" : {
+        "emotion" : "1",
+        "name" : "Tell your friends tell all your friends I AM THE KNIGHT."
+      }
+    },
+    "Hero-KkbYhvN4isJ-Zc9OosO" : {
+      "Quote-KmhthgL_vp9lbX5H9jw" : {
+        "emotion" : "2",
+        "name" : "Did you ever wonder boys, how it would feel to fall from a great distance and be crushed to a pulp?"
+      },
+      "Quote-Kmhtn8MhwDrCRT80u29" : {
+        "emotion" : "1",
+        "name" : "Enough, Doomsday! If you want to get your hands on my friends, you're going to have to kill me first!"
+      },
+      "Quote-KmhtsDoqYpFXWywX-jx" : {
+        "emotion" : "1",
+        "name" : "It stops here, mister! This insanity ends in Metropolis!"
+      }
+    },
+    "Hero-KkbZCbkpc1lAWGcciea" : {
+      "Quote-KmhyTZXNB0I4yc8DBKC" : {
+        "emotion" : "2",
+        "name" : "Can I help if I have a hyper-accelerated metabolism? Besides, it's just a little snack."
+      },
+      "Quote-Kmhyp1NcN_7q-txR5CA" : {
+        "emotion" : "2",
+        "name" : "Here's the deal: you tell me where those guys went, and I promise to come visit you in the hospital. We'll play darts! The soft kind. "
+      },
+      "Quote-Kmhyy7jwO3uyZBeCMAr" : {
+        "emotion" : "1",
+        "name" : "I swear, when I get out of this I'm gonna find you and hurl all over you! "
+      }
+    },
+    "Hero-Kkb_A5a64zsF004slSe" : {
+      "Quote-Kmi9Fvu94PGBFvoaLyQ" : {
+        "emotion" : 0,
+        "name" : "You want to know the real reason why I freed those dolphins? It's because I felt like they were calling to me."
+      },
+      "Quote-Kmi9Qf_eC_2JgMSR4AD" : {
+        "emotion" : "2",
+        "name" : "Atlantis. Yeah. Next time you're in Atlantis, can you say hi to Captain Nemo and the Little Mermaid for me?"
+      }
+    },
+    "Hero-Kkbb6cCSFi8EB3SofMG" : {
+      "Quote-KmiK-Hcj2tY4B6Y3u90" : {
+        "emotion" : "1",
+        "name" : "Hulk not think. HULK SMASH! "
+      },
+      "Quote-KmiK5WH1_P7kAwJj10W" : {
+        "emotion" : "1",
+        "name" : "Mustache man is strong! But Hulk stronger still! "
+      },
+      "Quote-KmiKGSN147yA-1fZ66H" : {
+        "emotion" : "1",
+        "name" : "Talking man hurt Hulk... HULK RIP OFF TALKING MAN'S HEAD! "
+      }
+    },
+    "Hero-KkbbZOf2xepcOEmOMMI" : {
+      "Quote-KmiOXe7gwD2hrTrsb39" : {
+        "emotion" : "5",
+        "name" : "I’m a huge fan of the way you lose control and turn into an enormous green rage monster."
+      },
+      "Quote-KmiOl5Bb2rIGgLjPN2b" : {
+        "emotion" : "2",
+        "name" : "Have you ever tried shawarma… I don’t know what it is, but I wanna try it."
+      }
+    },
+    "Hero-Kkbc3Ydy2I_AltdZSvP" : {
+      "Quote-KmiYNrOq74kwju4hQJl" : {
+        "emotion" : "4",
+        "name" : " One sibling this annoying is misfortune! What warlock has cursed me to have two?"
+      },
+      "Quote-KmiYX6PwKBYJAJ4tXMn" : {
+        "emotion" : "5",
+        "name" : "We welcome you Captain America, to the ranks of the... Avengers! "
+      },
+      "Quote-KmiYbYFfZMH59mI1Y8J" : {
+        "emotion" : "2",
+        "name" : "Overconfidence is thy trademark, it doth seem--and though my trademark be mine enchanted mallet, I much prefer to prove my contention with said finger--or fist! "
+      }
+    },
+    "Hero-Kkbc5uZCUTRNBF5uOri" : {
+      "Quote-KmigomytKG7dAW5IotQ" : {
+        "emotion" : 0,
+        "name" : "We're not just our failures. As much as they hurt, we learn from them. Then we go out there and do our best to make up for them-- Even though we never will. We save people. We save as many as we can to make up for the ones we couldn't. That's all we do. "
+      },
+      "Quote-KmigscfVJzSS1gi3UBk" : {
+        "emotion" : 0,
+        "name" : "Just be straight with me, Crystal. You wouldn't keep showing up by these things if you hadn't found anything. And hey -- I'm the guy who third-wheeled your dates with Johnny Storm while the Inhumans were still a secret society. Whatever it is you're keeping from the world at large -- you can trust me. "
+      },
+      "Quote-KmigxamwCI2gqfMqxZ5" : {
+        "emotion" : "3",
+        "name" : "My fault -- all my fault! If only I had stopped him when I could have! But I didn't -- and now -- Uncle Ben -- is dead..."
+      },
+      "Quote-Kmih5ngboYVWr7d9xWh" : {
+        "emotion" : "2",
+        "name" : "Seriously, a clinic that super heroes frequent and you think, \"That's the place I want to rip off next\"?! Let me ask you, and be honest, are you stupid? Or really, really stupid?"
+      }
+    },
+    "Hero-KkbdiXIWE8kmNYLIAG4" : {
+      "Quote-Kmj4HNl2H_zjgzoIbq7" : {
+        "emotion" : 0,
+        "name" : "In Amazonia I'm a Doctor!"
+      },
+      "Quote-Kmj4PFPve5YQF5fFyNR" : {
+        "emotion" : "4",
+        "name" : "It can't be legal to deprive poor children of milk!\n"
+      },
+      "Quote-Kmj4UJ2bMCleX8b_kZw" : {
+        "emotion" : "5",
+        "name" : "How thrilling! I see you're chaining me to the cookstove. What a perfect caveman idea!"
+      },
+      "Quote-Kmj4_VbfbfHrMKodXNP" : {
+        "emotion" : "2",
+        "name" : "Never mind Olive, you'll do better next time."
+      }
+    },
+    "Hero-KkbfeYOZMFFCHDYaJbX" : {
+      "Quote-KmnOenhHLAZIwuiR-pH" : {
+        "emotion" : "2",
+        "name" : "Yes, for the moment, I'm not dying. Thank you."
+      },
+      "Quote-KmnOn4dXFQqQj82pp3L" : {
+        "emotion" : "2",
+        "name" : "It was quite the buzz around here, finding you in the ice. I thought Coulson was gonna swoon."
+      },
+      "Quote-KmnP0nYSwBUyIDRG1U3" : {
+        "emotion" : 0,
+        "name" : "Love is for children; I owe that man a debt."
+      },
+      "Quote-KmnP6WBAa8Vwbfm4IF0" : {
+        "emotion" : 0,
+        "name" : "Most of the intelligence community doesn't believe he exists. The ones that do call him the Winter Soldier. He's a ghost. You'll never find him."
+      }
+    },
+    "Hero-KkbhHk17IbGpUA8RRZ6" : {
+      "Quote-KmnXdRsRNStIgaIYpbp" : {
+        "emotion" : 0,
+        "name" : "Hang in there, Big Guy.You're SO not in this alone."
+      },
+      "Quote-KmnXhhn60rewnuLeckX" : {
+        "emotion" : "3",
+        "name" : "Sometimes I wish I didn't have any memories of Krypton. Maybe then I'd be like you... maybe then I wouldn't miss it so much. "
+      },
+      "Quote-KmnXn8a8fUWoPkxWUhY" : {
+        "emotion" : "5",
+        "name" : "Some of us try hard to make the world a better place than it was when we found it. I know that's what I try to do. I won't always be successful. But that's life. I'm Supergirl. This is my life ... and y'know what? I'm pretty happy with it. (For now at least.) "
+      },
+      "Quote-KmnXv7azo26NGcTY5p-" : {
+        "emotion" : "4",
+        "name" : "I can see... something. It looks like... like it's mixing in with the cells around it. I'm sorry, Lana. I'm so sorry. I should've noticed something was wrong. I should've been checking. If they can't fight it... if it continues to attack your system, does that mean... Did they tell you how long you have? "
+      }
+    },
+    "Hero-KkbihfkzrhWhQJJOBb1" : {
+      "Quote-KmoLDfyqRt129Yjplow" : {
+        "emotion" : "2",
+        "name" : "Man, I will never get sick of this place. A whole building dedicated to businesses owned by super-powered entrepreneurs. "
+      },
+      "Quote-KmoLKC_h6-G14rs2ykP" : {
+        "emotion" : "4",
+        "name" : "Wait. Let me get this straight. You want to sue them...for making you \"larger, stronger, and more powerful\"? "
+      },
+      "Quote-KmoLOKeKHXkRLS5pfiU" : {
+        "emotion" : "1",
+        "name" : "What...THE #$@%...IS THIS? "
+      },
+      "Quote-KmoLVU-so9qA8fqGQxb" : {
+        "emotion" : "2",
+        "name" : "Wouldn't leave you holding the bag, Dev! Bad for my karma! "
+      }
+    },
+    "Hero-Kl1a10FPWd6NQEHx56E" : {
+      "Quote-KmoRkFgllybafABriTb" : {
+        "emotion" : 0,
+        "name" : "The hardest thing in this world is to live in it. Be brave. Live."
+      },
+      "Quote-KmoRoktOUw0GlDWGYqT" : {
+        "emotion" : "1",
+        "name" : "Strong is fighting! It's hard, and it's painful, and it's every day."
+      },
+      "Quote-KmoRt61sq6xPTQHaRkY" : {
+        "emotion" : "2",
+        "name" : "Seize the moment, because tomorrow you might be dead."
+      },
+      "Quote-KmoRygxewVJD4RmeLuG" : {
+        "emotion" : "2",
+        "name" : "I may be dead... but I'm still pretty."
+      },
+      "Quote-KmoS2lmU0YCgtB964Oe" : {
+        "emotion" : "4",
+        "name" : "No weapons, no friends, no hope. Take all that away and what's left? Me."
+      }
+    },
+    "Hero-Kl2CSa49lBWlMIQo6oC" : {
+      "Quote-KmopLmDWM6pWDsL1Kle" : {
+        "emotion" : "1",
+        "name" : "Never say never. "
+      },
+      "Quote-KmopUg9DEYcszeAt15M" : {
+        "emotion" : "2",
+        "name" : "Governor? They call you that?"
+      }
+    },
+    "Hero-Kl7oN2AyzjG9oltQbzK" : {
+      "Quote-Kmok86Qy9cqR87QzO7_" : {
+        "emotion" : "4",
+        "name" : "Call me ma'am again, I'll find a way to kill you a second time. "
+      },
+      "Quote-KmokF_CRUaKcWfrOYR7" : {
+        "emotion" : "1",
+        "name" : "Not that @$## cliche again. Not from you."
+      }
+    }
+  },
+  "Stories" : {
+    "Hero-KkbU510uEj96honHKbS" : {
+      "Story-Klge99-IPTyXk_yqlnS" : {
+        "coordinates" : {
+          "x" : -575,
+          "y" : -90
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbU510uEj96honHKbS-Story-Klge99-IPTyXk_yqlnS?alt=media&token=c85e3f2a-0ec2-4de5-a103-7856c090bfa7",
+        "story" : "T'Challa is heir to the centuries-old ruling dynasty of the African kingdom Wakanda, and ritual leader of its Panther Clan. His mother died in childbirth, earning him the enduring hatred of his adopted elder brother, Hunter, who also resented T'Challa for supplanting him in the royal household. Hunter would become the White Wolf, leader of the Hatut Zeraze (Dogs of War), the Wakandan secret police. Their father T'Chaka remarried, but his second wife, Ramonda, seemingly ran away with another man when T'Challa was eight. When T'Challa was a teenager, T'Chaka was murdered by Klaw, a Dutchman seeking to plunder the rare Vibranium metal unique to Wakanda, but T'Challa used Klaw's own weapon to maim him and drive him off. T'Challa studied in Europe and America, then underwent ritual trials in Wakanda - including defeating his uncle S'yan, the existing Black Panther - to win the heart-shaped herb, enhancing his abilities and linking him spiritually to the Panther God Bast. Now Wakanda's ruler as the Black Panther, he disbanded and exiled the Hatut Zeraze and continued transforming his country into a high-tech wonderland. When tribal war broke out, T'Challa restored peace by condemning the Jabari tribe, and by picking Dora Milaje (\"Adored Ones\") from rival tribes to serve as his personal guard and ceremonial wives-in-training.",
+        "templateType" : 0,
+        "title" : "T'Challa, your highness"
+      },
+      "Story-Klo_mB_ESMtzCbGC60Z" : {
+        "coordinates" : {
+          "x" : -105,
+          "y" : -30
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbU510uEj96honHKbS-Story-Klo_mB_ESMtzCbGC60Z?alt=media&token=476d0c3a-5a3d-4500-af55-609fd36e7fd4",
+        "story" : "In the distant past, a meteorite made of the (fictional) vibration-absorbing mineral vibranium crashed in Wakanda, and was unearthed. Reasoning that outsiders would exploit Wakanda for this valuable resource, the ruler King T'Chaka like his father and other Panthers before him, concealed his country from the outside world. T'Chaka's first wife N'Yami died while in labor with T'Challa, and his second wife Ramonda was taken prisoner by Anton Pretorius during a visit to her homeland of South Africa, so for most of his childhood T'Challa was raised by his father alone. T'Chaka was murdered by the adventurer Ulysses Klaw in an attempt to seize the vibranium mound. With his people still in danger, a young T'Challa used Klaw's sound weapon on Klaw and his men, shattering Klaw's right hand and forcing him to flee.\n\nT'Challa was next in line to be the king of Wakanda and Black Panther, but until he was ready to become the leader of the nation, his uncle S'yan (T'Chaka's younger brother) successfully passed the trials to become the Black Panther. While on his Wakandan walkabout rite of passage, T'Challa met and fell in love with apparent orphaned teen Ororo Munroe, who would grow up to become the X-Men member Storm. The two broke off their relationship due to his desire to avenge his father's death and to become the type of man who could suitably lead Wakanda, but they would see each other over the years when they could.\n\nT'Challa earned the title and attributes of the Black Panther by defeating the various champions of the Wakandan tribes. One of his first acts was to disband and exile the Hatut Zeraze—the Wakandan secret police—and its leader, his adopted brother Hunter the White Wolf.[34] He sold off small portions of vibranium to scientific institutions around the world, amassing a fortune which he used to arm himself with advanced technology. Later, to keep peace, he picked dora milaje (\"adored ones\") from rival tribes to serve as his personal guard and ceremonial wives-in-training. He then studied abroad for a time before returning to his kingship.",
+        "templateType" : 1,
+        "title" : "Early life and background"
+      },
+      "Story-KloiHi_v-krpb88PyuR" : {
+        "coordinates" : {
+          "x" : -245,
+          "y" : -15
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbU510uEj96honHKbS-Story-KloiHi_v-krpb88PyuR?alt=media&token=fb8a0b5e-a8c4-4de7-a93e-11b140dbafb8",
+        "story" : "The Panther eventually leaves his active Avengers membership to return to a Wakanda on the brink of civil war, bringing Lynne with him. After defeating would-be usurper Erik Killmonger and his minions, the Panther ventures to the American South to battle the Ku Klux Klan. He later gains possession of the mystical time-shifting artifacts known as King Solomon's Frogs. These produce an alternate version of T'Challa from a future 10 years hence, a merry, telepathic Panther with a terminal brain aneurysm, whom T'Challa places in cryogenic stasis.\n\nLater, while searching for and finding his stepmother Ramonda, the Panther contends with South African authorities during Apartheid. T'Challa eventually proposes and becomes engaged to Monica Lynne, though the couple never marry.\n\nYears later, the Panther accepts a Washington, D.C. envoy, Everett K. Ross, and faces multiple threats to Wakanda's sovereignty. Ross assists him in many of these threats. In gratitude, the Panther often risks much for Ross in return. The first threat he and Ross encounter is \"Xcon\", an alliance of rogue intelligence agents backing a coup led by the Reverend Achebe. Afterward, Killmonger resurfaces with a plot to destroy Wakanda's economy. This forces T'Challa to nationalize foreign companies. Killmonger then defeats him in ritual combat, thus inheriting the role of Black Panther, but falls into a coma upon eating the heart-shaped herb—poisonous to anyone outside the royal bloodline, which had a hereditary immunity to its toxic effects. T'Challa preserves his rival's life rather than allowing him to die.\n\nLater, T'Challa finds he has a brain aneurysm like his alternate future self, and succumbs to instability and hallucinations. After his mental state almost causes tribal warfare, the Panther hands power to his council and hides in New York City. There he mentors police officer Kasper Cole (who had adopted an abandoned Panther costume), an experience that gives T'Challa the strength to face his illness, reclaim his position, and return to active membership in the Avengers, whom he helps secure special United Nations status.",
+        "templateType" : 2,
+        "title" : "Return to Wakanda"
+      }
+    },
+    "Hero-KkbV7tEVo4azosh9ZPP" : {
+      "Story-KmhP9CZOZAGW5XV_D7Q" : {
+        "coordinates" : {
+          "x" : -160,
+          "y" : -370
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbV7tEVo4azosh9ZPP-Story-KmhP9CZOZAGW5XV_D7Q?alt=media&token=936d51d5-91af-4f5b-a563-de1c276ca5dc",
+        "story" : "Abandoned by his mother, Matt Murdock was raised by his father, boxer \"Battling Jack\" Murdock, in Hell's Kitchen. Realizing that rules were needed to prevent people from behaving badly, young Matt decided to study law; however, when he saved a man from an oncoming truck, it spilled a radioactive cargo that rendered Matt blind while enhancing his remaining senses. Under the harsh tutelage of blind martial arts master Stick, Matt mastered his heightened senses and became a formidable fighter. He also attended Columbia University Law School alongside his best friend, Franklin \"Foggy\" Nelson; but before Matt earned his Juris Doctorate degree, his father was murdered by agents of the Fixer (Roscoe Sweeny) for refusing to throw a fight. Enraged when the legal system failed to bring the Fixer to justice, Matt donned a costume made from his father's boxing robe and went into action as \"Daredevil,\" savagely beating his father's killers and frightening the Fixer himself to death. Establishing a small New York law firm with Foggy, Matt vowed to serve the law as Matt Murdock and to fight evils beyond the law's reach as Daredevil. Over the years, he has fought many super-criminals, including Mister Fear, Stilt-Man, Gladiator, Purple Man and Jester (Jonathan Powers), as well as crime lords such as the Kingpin and the Owl. He has loved and fought alongside both the Black Widow and Elektra.",
+        "templateType" : 0,
+        "title" : "Masked attorney"
+      },
+      "Story-KmhPWW4FA-oaZ7HRYsi" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbV7tEVo4azosh9ZPP-Story-KmhPWW4FA-oaZ7HRYsi?alt=media&token=13601c05-471e-494f-816c-e2b6f05aef7c",
+        "story" : "Although Daredevil and the Punisher both fight crime, they often clash over the Punisher's lethal tactics. During an early encounter, Daredevil shot the Punisher to prevent him from killing drug-dealer Peter \"Hogman\" Grunter. Since then, Daredevil has worked with the Punisher when necessary, but has also attempted to bring him to justice. Daredevil formed the \"Marvel Knights\" to apprehend the Punisher, who escaped police custody thereafter. Later, Daredevil teamed with Spider-Man and Wolverine in a failed attempt to take down the Punisher, who told Daredevil that the only way to stop him was to kill him.",
+        "templateType" : 1,
+        "title" : "Vs. Punisher"
+      },
+      "Story-KmhPjsTyrq9zN5r_BYj" : {
+        "coordinates" : {
+          "x" : 20,
+          "y" : -280
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbV7tEVo4azosh9ZPP-Story-KmhPjsTyrq9zN5r_BYj?alt=media&token=c8bcd1fe-4848-4af1-92a6-d68169a10455",
+        "story" : "Recently, Daredevil's secret identity was exposed by a tabloid and he definitively defeated the Kingpin in public, declaring himself New York's new kingpin. To avoid disbarment, Murdock has been forced to publicly and legally deny his dual identity, though the public remains unconvinced. He was incarcerated by the FBI which had been publicly embarrassed by Murdock and placed in a population comprised of many of his enemies in the hope that Murdock would be killed while in prison. Murdock, aided by the Punisher, escaped shortly thereafter.",
+        "templateType" : 2,
+        "title" : "Presently"
+      }
+    },
+    "Hero-KkbWCTZeqitly9kpq5c" : {
+      "Story-KmhUBImDN723cYF-4e-" : {
+        "coordinates" : {
+          "x" : 25,
+          "y" : -70
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbWCTZeqitly9kpq5c-Story-KmhUBImDN723cYF-4e-?alt=media&token=21d103a1-03d0-436f-ae2c-780d87a5bf4b",
+        "story" : "Wade Wilson's early life is mostly unknown. His mother died of cancer while he was young and his father (who was in the military) was physically abusive. Wade was a deliquent in his teenage years, possibly to spite his father. However one night while drinking with his friends his father attempt to take him out of the club one of his friends stole Wade's Fathers handgun and killed him. Following a brief stint of military service, Wade began his mercenary career while still in his late teens. Accepting assassination jobs only against those whom he felt deserved death, he made a habit of using plastic surgery and technology to take on a new identity whenever he failed an assignment. Many years later Deadpool's nemesis T-Ray accused Deadpool of killing his wife and stealing his identity after a failed mission, but Deadpool's restored memories revealed this to be a lie; in T-Ray's account Wade was wearing his Deadpool costume, which he didn't have in till after he joined Weapon X.",
+        "templateType" : 0,
+        "title" : "Merc with a mouth"
+      },
+      "Story-KmhUSGCek8N0vbwg2w9" : {
+        "coordinates" : {
+          "x" : -660,
+          "y" : -40
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbWCTZeqitly9kpq5c-Story-KmhUSGCek8N0vbwg2w9?alt=media&token=67652046-a976-43a7-9c84-d3d145ea05ee",
+        "story" : "In America, Wilson met and fell in love with teenage prostitute Vanessa Carlysle, with whom he shared dreams of a better life. Wilson was subsequently hired by Middle Eastern interests to assassinate a blind British government operative named Althea, also known as Blind Al, but upon arrival at the Zaire base where she was stationed, he killed everyone except for Al who had fled. Wilson’s employers sought vengeance for his failure by targeting Vanessa, who was rescued by Zoe Culloden, an employee of the interdimensional firm Landau, Luckman, Lake, and LeQuare. Culloden was keeping Wilson under surveillance, believing he was destined to play a vital part in a potential threat to the world.Learning that he had contracted cancer, Wilson broke up with Vanessa rather than force her to remain with a terminally ill man. In Canada, he was offered hope in the form of Department K, a special weapons development branch of the Canadian government. Wilson became a test subject in Department K’s branch of the joint U.S./Canadian superhuman enhancement project, the Weapon X Program; his cancer was temporarily arrested via the implantation of a healing factor derived from another Department K agent, the mutant adventurer Wolverine. Wilson was active in a covert field unit alongside the near-invulnerable Sluggo and the cyborgs Kane and Slayback. Vanessa herself was later affiliated with the team after having manifested mutant shapeshifting abilities, calling herself Copycat.",
+        "templateType" : 2,
+        "title" : "The survivor"
+      },
+      "Story-KmhUs9kQticVoYrTD-s" : {
+        "coordinates" : {
+          "x" : 820,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbWCTZeqitly9kpq5c-Story-KmhUs9kQticVoYrTD-s?alt=media&token=d111e275-d3ec-4e20-b6d6-3aa91e65222f",
+        "story" : "During one mission, Wilson killed his teammate Slayback. As a result, he was rejected from the Weapon X Program and sent to the Hospice, allegedly a government facility where failed superhuman operatives were treated. However, unknown to the Canadian government, the Hospice’s patients served as experimental subjects for Doctor Killebrew and his sadistic assistant Ajax, with the patients placing bets in a \"deadpool\" as to how long each subject would live. Killebrew subjected Wilson to various torturous experiments for his own deranged satisfaction. In due course, Wilson formed a semi-romantic relationship with the cosmic entity Death, who regarded him as a kindred spirit. Wilson’s emotional strength during his trials earned him the respect of his fellow Hospice patients. Then Ajax, angered by Wilson’s taunts, lobotomized one of Wilson’s friends. At Death’s prompting, Wilson killed his friend to end his suffering. However, under Killebrew’s rules any patient who killed another was to be executed; Ajax subsequently tore out Wilson’s heart and left him for dead, but Wilson’s thirst for vengeance was so strong that it jumpstarted his healing factor, regenerating his heart, although not curing his scarred body. Wilson then attacked Ajax, leaving him for dead in turn, and, taking the name Deadpool, escaped from the Hospice with his fellow patients.",
+        "templateType" : 2,
+        "title" : "Weapon X"
+      },
+      "Story-KmhV7vRIE3P4KeDOzyh" : {
+        "coordinates" : {
+          "x" : -65,
+          "y" : -175
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbWCTZeqitly9kpq5c-Story-KmhV7vRIE3P4KeDOzyh?alt=media&token=b241e064-f746-4ad8-8b4e-6be70131383d",
+        "story" : "Merc has been associated with many groups like X-Force, Agency X; formerly Six Pack, One World Church, DP Inc., Weapon X, Heroes for Hire, Secret Defenders, Frightful Four, Team Deadpool, Landau, Luckman & Lake, Department K; former employee of Genesis, Tolliver, Kingpin, Taskmaster, presumably others. Eight months after the events of Secret Wars and the restoration of Earth, Deadpool is seen working for Steve Rogers. After stealing some potentially life-saving chemicals needed by an ailing Rogue, he is offered membership in the Avengers Unity Squad.\n\nIn the course of the following months, Deadpool's popularity skyrocketed after the mercenary Solo impersonated him to piggyback on Deadpool's reputation and take jobs at a higher pay rate. One of Solo's jobs in Washington, D.C. had Deadpool's public opinion drastically change for the better when he saved an ambassador from his telepathically-manipulated agents. After learning of Solo's impersonation, Deadpool came up with the idea to form a group of mercenaries called the Mercs for Money to extend his reach across the globe. However, Deadpool's newfound popularity forced him to leave his family behind, fearing his enemies could endanger them. Deadpool additionally joined the Avengers Unity Division and used his popularity as a means of funding the team, with the profit from merchandise",
+        "templateType" : 1,
+        "title" : "Group Affiliations"
+      }
+    },
+    "Hero-KkbWeoe70Wt5cGpaC4q" : {
+      "Story-KmhdeZrc57h1EAUWZG9" : {
+        "coordinates" : {
+          "x" : 5,
+          "y" : -55
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbWeoe70Wt5cGpaC4q-Story-KmhdeZrc57h1EAUWZG9?alt=media&token=76675111-00b3-4d2d-9c5c-c979da358bf7",
+        "story" : "Born in 1930, Stephen Strange was the eldest child of Eugene and Beverly Strange, then vacationing in Philadelphia. Two years later, Stephen's sister Donna was born at the family's Nebraska farm. At age eight, Strange was beset by demons controlled by apprentice sorcerer Karl Mordo, but was rescued by Mordo's mentor, the Ancient One, a millennia-old sorcerer who protected the Earth dimension as its Sorcerer Supreme, a role Strange was destined to inherit. At age eleven, a year or two after his brother Victor's birth, Strange aided an injured Donna, the experience inspiring him to pursue a medical career.\nAfter high school, Strange entered pre-med at a New York college. Later, home on vacation for his nineteenth birthday, Strange went swimming with Donna, who suffered a cramp and drowned. Finding her body after a desperate search, Strange felt a sense of personal failure that eroded his medical idealism. After earning his medical degree in record time, he entered a five-year residency at New York Hospital, where his rapid success made him arrogant. When his mother Beverly died near the end of his residency, a bereaved Strange grew distant from his work. His talent was unaffected, though, and he became a wealthy, celebrated neurosurgeon before he turned thirty. His egotism made him cold and callous, interested only in high fees. He saved the life of injured United Nations translator, Madeleine Revell; following a romance and proposal, she left him due to his increasingly materialist nature. Two years after Beverly's death, her husband Eugene fell ill; unable to face another family death, Stephen refused to visit his deathbed. A few days later, an outraged Victor berated Stephen for his apparent lack of grief, then rushed from Strange's apartment into the path of an oncoming car. Blaming himself, Strange placed Victor's body in cold storage, half-hoping that future breakthroughs could revive him.",
+        "templateType" : 1,
+        "title" : "Early life and background"
+      },
+      "Story-KmhduEOLVw6ZuwaV57S" : {
+        "coordinates" : {
+          "x" : -90,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbWeoe70Wt5cGpaC4q-Story-KmhduEOLVw6ZuwaV57S?alt=media&token=6c606175-14b1-4c61-9ced-30e370f1900b",
+        "story" : "Circa 1963, Strange was in a car accident that severely damaged the nerves in his hands, ending his surgical career. Too vain to accept positions as a consultant or assistant, Strange sought a cure and pursued every available treatment, legitimate or not, soon depleting his fortune; in months he was reduced to a derelict, performing shady medical procedures that barely paid his bar tabs. After hearing rumors of the mystical Ancient One, a desperate Strange pawned his last possessions for a ticket to the East and found the Ancient One's Tibetan palace. At first annoyed when the Ancient One refused to cure him, Strange was later astonished to see the sorcerer attacked by mystic forces. Upon learning that the Ancient One was Earth's magical defender and that the attack on him came from his pupil Mordo, Strange tried to warn him, but Mordo mystically prevented Strange from doing so. For the sake of the Ancient One and the world, Strange acted unselfishly for the first time in years, vowing to learn magic himself so he could counter Mordo and his ilk. He offered himself as a disciple to the Ancient One, who accepted, having known of Mordo's treachery all along. The Ancient One spent years instructing Strange in the art of sorcery, teaching him how to tap the innate mystic powers of both himself and the world around him, as well as how to invoke the power of awesome entities, or Principalities, who resided in their own realms, most notably the three benign beings known as the Vishanti. A few years after Strange's arrival, Mordo left to seek greater power, and would often clash with Strange in the future. Strange's guilt over his earlier mistakes weighed heavily upon him over the years, and not all of his early recollections can be trusted.\n\nDuring his years of study and early activity, Strange befriended many sorcerers around the world, including Lord Julian Phyffe and Sir Clive Bentley of Great Britain; Cardinal Alfeo Spinosa and Count Carezzi of Italy; Omar Karindu, Rama Kaliph, and Turhan Barim of the Middle East; Wai Chee Yee and Sen-Yu of Asia; and Aleister Kane, Kenneth Ward, and Frank Brukner of America. Other immortal adventurers, such as Immortalis and Terror, Inc., regarded his ascent with skepticism. Strange also found allies among more earthly heroes, aiding the adventurer Black Fox in at least two adventures. No later than the 1970s, Strange returned to America, becoming a mystic consultant in New York's Greenwich Village. He was joined by Wong, the descendant of a line that had served the Ancient One for centuries, who became his servant and friend. Strange's earliest foes included the demonic Bottle Imp; a nightmarish manifestation of the entity KhLΘg; and the demon Nightmare, who preyed upon humanity's dreams and became one of Strange's bitterest enemies. Developing a mysterious reputation like the Ancient One before him, Strange became an occasional consultant to local and even federal authorities.",
+        "templateType" : 0,
+        "title" : "The accident and subsequent transformation"
+      }
+    },
+    "Hero-KkbXnYW3HVtUlZ7dyk5" : {
+      "Story-KmhhGQYPcV1BVVISbJm" : {
+        "coordinates" : {
+          "x" : 15,
+          "y" : -35
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbXnYW3HVtUlZ7dyk5-Story-KmhhGQYPcV1BVVISbJm?alt=media&token=7ad1afd5-1d97-473d-ab38-d908240de663",
+        "story" : "Bruce Wayne is born to Dr. Thomas Wayne and his wife Martha, two very wealthy and charitable Gotham City socialites in 1915. Bruce is brought up in Wayne Manor, with it's wealthy splendor, and lives a happy and privileged existence until the age of eight, when his parents are killed by a small-timed criminal named Joe Chill while on their way home from a movie theater. Bruce Wayne swears an oath to rid the city of the evil that had taken his parents' lives. He engages in intense intellectual and physical training; however, he realizes that these skills alone would not be enough. \"Criminals are superstitious and cowardly lot,\" Wayne remarks, \"so my disguise must be able to strike terror into their hearts. I must be a creature of the night, black, terrible...\" As if responding to his desires, a bat suddenly flies through the window, inspiring Bruce to take on the persona of Batman.",
+        "templateType" : 2,
+        "title" : "Billionaire detective"
+      },
+      "Story-KmhheFMzyPkCnsMVhsl" : {
+        "coordinates" : {
+          "x" : -220,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbXnYW3HVtUlZ7dyk5-Story-KmhheFMzyPkCnsMVhsl?alt=media&token=e5252e28-a6a9-4594-8e21-1eb1f029846a",
+        "story" : "At age 14, Bruce embarked on a journey that took him to every continent as he sought to learn all the skills he would need to keep his vow. He studied criminology, forensics, and criminal psychology, and learned from manhunters and martial artists, mastering every fighting style. In time, Bruce forged himself into a living weapon to wage war on crime and injustice. On his return to Gotham, Bruce stalked street thugs as a plainclothes vigilante. Beaten by the very people he intended to protect, he barely survived his first night out. As he sat bleeding in his study at Wayne Manor Bruce knew that he had to first strike fear in the hearts of his foes. Just then, a bat crashed through the study window, giving Bruce the inspiration he needed.\nEstablishing a secret headquarters in the caves beneath his mansion, Bruce became Batman, a Dark Knight to protect Gotham and its citizens from vice and villainy. Alfred Pennyworth remained his confidant, tending to injuries and offering sage advice - whether requested or not!\n\nBatman became an urban legend, a cautionary tale that sent shivers through the city's underworld. This Caped Crusader found a friend in Captain James Gordon a Gotham cop who didn't approve of Batman's methods, but appreciated the results of his nightly crime fighting. Batman's Rogues Gallery grew to include a host of bizarre criminals, such as the Joker, Catwoman, Two-Face and the Penguin. As his enemies increased, help arrived in the form of another young boy left parentless by brutal crime.",
+        "templateType" : 0,
+        "title" : "Batman begins!!!"
+      },
+      "Story-Kmhi4vge0R7Vmipk-sL" : {
+        "coordinates" : {
+          "x" : -320,
+          "y" : -55
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbXnYW3HVtUlZ7dyk5-Story-Kmhi4vge0R7Vmipk-sL?alt=media&token=7b619772-cda3-46b7-85f3-f3d0832dbd1f",
+        "story" : "The history of The Red Hood There are two stories, we will give you the current history of The Red Hood. The man who was to wear the Red Helmet and become the Red Hood was actually a former chemical technician for the Ace Chemical plant, who became a struggling stand-up comedian burdened with the thought of not being able to support his newly pregnant wife.\nJack, this poor sot's name, is approached by criminals who strong arm him into accepting the role of The Red Hood since they want to rob the Ace Chemical plant. Jack accepts [he had no choice], in order to make enough money to start a better life for his family. The day of the heist, Jack learns that his pregnant wife dies from a \"freak accident\", the reader is led to believe that it was done by the gang members ensuring that Jack stuck with deal.Jack, failed comedian, failed husband to a murdered wife, reluctantly dons the helmet? becoming the new Red Hood. Red Hood had a large domed red helmet [of course] with one way mirror lenses [like Spider-Man] to see through and a red cape. Oh yes.. he also wore a tuxedo. Very dapper was the Red Hood. While attempting to rob a chemical plant, the plant's security men spot the robbers, shooting the other criminals dead, narrowly missing the Red Hood. Cornered on a catwalk by Batman the [now terrified] Red Hood dives into a chemical basin to make his escape and swims to freedom by way of a venting pipe. He only survived via a special breathing apparatus that was built into his helmet. However, the chemicals in the basin permanently disfigured the an under the hood, turning his hair green, his skin white and his lips red.",
+        "templateType" : 2,
+        "title" : "The Origin of The Joker"
+      },
+      "Story-KmhiElvFfeNA1jQ0GMY" : {
+        "coordinates" : {
+          "x" : -55,
+          "y" : -90
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbXnYW3HVtUlZ7dyk5-Story-KmhiElvFfeNA1jQ0GMY?alt=media&token=4e0361ae-afa1-4dc4-9a5c-5abc9e9ebf01",
+        "story" : "Bane will forever be remembered as the man who broke the Bat! More than three decades ago, Bane's father received a life sentence from the Satna Priscan government for his role in a failed revolution. He fled the country, but Santa Priscan law demanded that his son take his place. The child that would become Bane was raised inside Pena Duro prison (mostly in a pit called the Cavidad Oscuro). Bane killed dozens of inmates and engineered a jailbreak when experiments with the drug Venom gave him monstrous strength.\nWinding up in Gotham City, Bane exhausted Batman by freeing all the villains from Arkham Asylum. He then crippled the Dark Knight by snapping his spine. Jean Paul Valley (Azrael) donned the Batman garb ? wile Bruce recuperated from his injuries. This interim Batman was more violent and unstable; Bruce returned to action as soon as his body had healed and he had regained his fighting spirit, with the help of ruthless martial-arts mistress Lady Shiva. Bruce took back the mantle of the Bat by force.",
+        "templateType" : 1,
+        "title" : "Broken Bat"
+      }
+    },
+    "Hero-KkbYhvN4isJ-Zc9OosO" : {
+      "Story-Kmho_H41z6FRz1rOiZ_" : {
+        "coordinates" : {
+          "x" : -50,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbYhvN4isJ-Zc9OosO-Story-Kmho_H41z6FRz1rOiZ_?alt=media&token=d80cc964-ad8d-40c1-9390-89a48efc2807",
+        "story" : " The planet Krypton was on the brink of destruction, married scientists Jor-El and Lara Lor-Van built a rocket they could use to save their unborn son Kal-El in his gestation chamber. Wanting him to reclaim the fullness in life denied him by the sterility of Kryptonian culture, his parents sent him to Earth, where exposure to the yellow sunlight would charge his cells into living solar batteries and gift him with incredible powers.Upon landing, the child was discovered by Jonathan and Martha Kent in Smallville, Kansas. The kindly couple decided they would adopt and raise him, naming him Clark Kent. \nClark's abilities increased steadily as he grew up, with super-strength and invulnerability manifesting at an early age and the power of flight developing during high school. His adopted parents revealed the rocket and his foreign heritage to their son when he was 18, leading Clark to the decision that he would become a hero in secret and use his powers to protect innocents.",
+        "templateType" : 0,
+        "title" : "Kal-El"
+      },
+      "Story-KmhrUkCzYZLhp7IJBlN" : {
+        "coordinates" : {
+          "x" : -60,
+          "y" : -60
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbYhvN4isJ-Zc9OosO-Story-KmhrUkCzYZLhp7IJBlN?alt=media&token=45913423-2e0f-4f02-8ef3-b80e32cb656e",
+        "story" : "Superman's large cast of supporting characters includes Lois Lane, the character most commonly associated with Superman, being portrayed at different times as his colleague, competitor, love interest and wife. Other main supporting characters include Daily Planet coworkers such as photographer Jimmy Olsen and editor Perry White, Clark Kent's adoptive parents Jonathan and Martha Kent, childhood sweetheart Lana Lang and best friend Pete Ross, associates like Professor Hamilton and John Henry Irons who often provide scientific advice and tech support, and former college love interest Lori Lemaris (a mermaid). Stories making reference to the possibility of Superman siring children have been featured both in and out of mainstream continuity.Incarnations of Supergirl, Krypto the Superdog, and Superboy have also been major characters in the mythos, as well as the Justice League of America (of which Superman is usually a member and often its leader) and Legion of Super-Heroes (which Superboy traveled through time to join). A feature shared by several supporting characters is alliterative names, especially with the initials \"LL\", including Lex Luthor, Lois Lane, Linda Lee, Lana Lang, Lori Lemaris, and Lucy Lane, alliteration being common in early comics.Various enemies of Superman, as they appear on the cover of Superman Villains: Secret Files and Origins #1 (June 1998). Art by Dan Jurgens.\nTeam-ups with fellow comics icon Batman are common, inspiring many stories over the years. When paired, they are often referred to as the \"World's Finest\" in a nod to the name of the comic book series that features many team-up stories. In 2003, DC began to publish a new series featuring the two characters titled Superman/Batman or Batman/Superman. Following DC Comic's The New 52 line-wide relaunch, Superman established a romantic relationship with Wonder Woman. A comic book series titled Superman/Wonder Woman debuted in 2013, which explores their relationship and shared adventures.",
+        "templateType" : 1,
+        "title" : "Allies"
+      },
+      "Story-Kmhrz9ZZq2za-2klbXJ" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbYhvN4isJ-Zc9OosO-Story-Kmhrz9ZZq2za-2klbXJ?alt=media&token=ffa19b97-ae4f-41f0-ac1f-83e140a00033",
+        "story" : "The villains Superman faced in the earliest stories were ordinary humans, such as gangsters, corrupt politicians, and violent husbands, but they soon grew more outlandish and collectively become Superman's rogues gallery. The mad scientist Ultra-Humanite, introduced in Action Comics #13 (June 1939), was Superman's first recurring villain. The hero's best-known nemesis, Lex Luthor, was introduced in Action Comics #23 (April 1940) and has been envisioned over the years as both a recluse with advanced weaponry to a power-mad billionaire.[165] In 1944, the magical imp Mister Mxyzptlk, Superman's first recurring super-powered adversary, was introduced.[166] Superman's first alien villain, Brainiac, debuted in Action Comics #242 (July 1958). The monstrous Doomsday, introduced in Superman: The Man of Steel #17–18 (Nov.-Dec. 1992), was the first villain to evidently kill Superman in physical combat. Other adversaries include the odd Superman-doppelgänger Bizarro, the Kryptonian criminal General Zod, and alien tyrants Darkseid and Mongul.",
+        "templateType" : 2,
+        "title" : "Enemies"
+      }
+    },
+    "Hero-KkbZCbkpc1lAWGcciea" : {
+      "Story-Kmhv2eOSmL8gYjYOU8V" : {
+        "coordinates" : {
+          "x" : -25,
+          "y" : -90
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbZCbkpc1lAWGcciea-Story-Kmhv2eOSmL8gYjYOU8V?alt=media&token=c00b76f2-1fd5-4922-9888-2d342167e883",
+        "story" : "Young Barry Allen’s life stopped the minute his mother was murdered. The true killer never found, its mystery obsessed Barry, driving him to become a forensic scientist. Consumed by his work, he spent his life chained to his desk, solving every case that flew across it. But when a freak lightning bolt hits a nearby shelf in his lab, Barry receives super-speed, becoming the Flash. Now, he’ll race up buildings, across oceans, and around the world to get his man—while getting introduced to a world so much bigger than his old life of microscopes and cold cases.\n\nAble to run at near light-speeds, his powers provide the ultimate caffeine kick: He can run up buildings, move so swiftly he phases through objects, create sonic booms with the snap of his fingers—and never need to order delivery. Despite his speed, Barry can become so obsessed with crime-solving he can still lose track of everything else around him, leaving the fastest man alive constantly running a minute behind.",
+        "templateType" : 0,
+        "title" : "Barry Allen"
+      },
+      "Story-KmhvULMlv6yJ4s_t0UK" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbZCbkpc1lAWGcciea-Story-KmhvULMlv6yJ4s_t0UK?alt=media&token=452a5db4-6d66-4790-b725-a7f846086618",
+        "story" : "The Flash is the fastest man alive. He is the protector of Central City and Keystone City, fighting against evil using his super-speed and a dedicated sense of heroism. His legacy, the Flash Family, spans throughout history tapping into the enigmatic Speed Force to gain their powers. Jay Garrick was the original Flash of the Golden Age, and a founding member of the Justice Society of America. Barry Allen was the Flash of the Silver Age and a founding member of the Justice League of America. He sacrificed himself to save the universe during the Crisis on Infinite Earths, but was resurrected during Final Crisis. His replacement was Wally West, his nephew and the original Kid Flash, formerly of the Teen Titans. The fourth was Bart Allen, who started his career as Impulse.The Flash was created by Gardner Fox and Harry Lampert in his original incarnation. He first appeared in Flash Comics #1. (1940) The modern version was created by Robert Kanigher, John Broome and Carmine Infantino, after an initial concept by Julius Schwartz, first appearing in Showcase #4. (1956) ",
+        "templateType" : 2,
+        "title" : "The fastest man alive"
+      }
+    },
+    "Hero-Kkb_A5a64zsF004slSe" : {
+      "Story-Kmi0ca0YxAO6QpcZJ2s" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -35
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkb_A5a64zsF004slSe-Story-Kmi0ca0YxAO6QpcZJ2s?alt=media&token=57b299f6-39e2-4d39-91b5-c29c7cfc1090",
+        "story" : "Cast out from Atlantis as a baby, Arthur Curry grew up on land, thinking himself a normal human. But when he matured, Atlantis returned, claiming him as their rightful king. Caught between a surface world constantly ravaging the sea and Atlanteans looking to lash out in revolt, he’s committed to protecting the entire globe.\n\nAquaman is the king of all things aqua. He can breathe underwater, swim at tremendous speeds, and telepathically communicate with sea life. Being able to withstand ocean depths, he gets bonus points on land with his superhuman strength, enhanced senses, and nearly impenetrable skin. And although his courage and decisive nature have proven him a true heir to Atlantis’s throne, the continual conflict between land and sea makes him a citizen of both—and at home in neither.",
+        "templateType" : 2,
+        "title" : "Human-Atlantean Hybrid"
+      },
+      "Story-Kmi4ZXGgdeLMLxb37jY" : {
+        "coordinates" : {
+          "x" : -190,
+          "y" : -85
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkb_A5a64zsF004slSe-Story-Kmi4ZXGgdeLMLxb37jY?alt=media&token=c965c111-9f0f-4689-8ff9-7c1467c9f1d1",
+        "story" : "Originally in Silver Age continuity Arthur Curry was the son of a lighthouse keeper named Tom Curry and a woman named Atlanna. Tom Curry lived in Amnesty Bay, Maine and raised his son with wife in the local Lighthouse. Arthur started to manifest incredible strength and speed at a young age, as well as the abilities to breathe underwater and talk to fish. On her deathbed, his mother revealed that she was an exiled Queen of Atlantis and he would someday inherit rule of the seven seas. His father gave him an education and taught him to control his powers, eventually allowing him to grow up and become the super-hero Aquaman.Aquaman would go on to become a founding member of the Justice League of America, although their origins have been altered several times in continuity. The original founding members included Batman, The Flash, Green Lantern, Martian Manhunter, Superman and Wonder Woman. They met for the first time during an alien invasion by the Appellaxians. This was later amended Post-Crisis to write Batman and Superman out of the story, with Wonder Woman replaced by Black Canary.",
+        "templateType" : 0,
+        "title" : "Origins"
+      }
+    },
+    "Hero-Kkbb6cCSFi8EB3SofMG" : {
+      "Story-KmiFmdCwETdSTVEK0kU" : {
+        "coordinates" : {
+          "x" : -55,
+          "y" : -30
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbb6cCSFi8EB3SofMG-Story-KmiFmdCwETdSTVEK0kU?alt=media&token=953e4df5-d6a7-42f6-bad0-7ad7687558c4",
+        "story" : "Robert Bruce Banner was the son of an alcoholic who deeply hated him. Banner's mother showed much affection for her child, who returned her love, but this only served to fuel his father's rage. Dr. Brian Banner was an atomic physicist who worked on producing clean nuclear power as an energy source, but he was afraid his exposure to it mutated his son's genes. Bruce showed signs of high intelligence at an early age which strengthened his father's belief. Brian became abusive to Bruce and when his mother intervened, Brian murdered her. He frightened Bruce to keep quiet, but his own bragging landed him in a psychiatric institute. As a child Bruce was withdrawn, possibly developing a split personality to help deal with his pain and rage. His only happiness came from spending time with his cousin Jennifer Walters. Bruce found it hard to develop friendships and often found himself on the receiving end of physical abuse at the hands of school bullies. One such incident sparked him to build and plant a bomb in the basement of his school. The bomb was a dud, and Bruce was expelled, but the military took notice of his genius. Eventually, Bruce earned a doctorate in nuclear physics and started a career with them. Supervising the trial of an experimental gamma bomb that he designed for the U.S. Defense Department at a nuclear research facility in New Mexico, Bruce selflessly rushed to the rescue of an ignorant teenager who had wandered onto the testing field as the countdown ticked inexorably toward zero. After shoving young Rick Jones to safety in a nearby ditch, Bruce was struck full-force by the bomb blast. He survived, but was irradiated by the deadly gamma energy. At first, Banner would transform into the brutish gray Hulk only at sunset, and revert to human form at dawn. Eventually, his changes into the childlike green Hulk came to be triggered by the release of adrenaline when he was intensely excited, no matter what time of day. The green Hulk possesses little of Banner's memory and intelligence, and is easily enraged; making him a menace to society. For a short time, Banner successfully treated his condition with radiation and was able to maintain enough of his own personality when he became the Hulk to control himself in that form. Subsequently, he earned the government's favor by destroying the alien Metal Master and received a presidential pardon.",
+        "templateType" : 1,
+        "title" : "Man or monster"
+      },
+      "Story-KmiG2Vnga967JffNYPX" : {
+        "coordinates" : {
+          "x" : -120,
+          "y" : -10
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbb6cCSFi8EB3SofMG-Story-KmiG2Vnga967JffNYPX?alt=media&token=fbfefaa3-f607-4c33-84e4-2c90f13f91f9",
+        "story" : "Not long after Hulk was baited into a trap by the Asgardian trickster, Loki, into destroying a train trestle. This would lead to the first instance where Hulk became a team player. Beside the occasional group endeavors, Hulk has teamed-up with many others that didn't think he was so bad. Spider-Man, Power Man and Iron Fist have partnered with Hulk on several occasions. Even brutes like the Thing and scrappers like Wolverine identified with Hulk and have allied with him almost as many times as they've fought against him. Not only has Hulk befriended those in the super-hero community, but he has managed to form bonds with regular people such as \"Crackajack\" Jackson and Jim Wilson. Unfortunately for the Hulk, there are many who used his limited intelligence against him and attempted to manipulate him for their own selfish means. Vile menaces like the Leader, Tyrannus, and Captain Omen. When Hulk proved to be too hard to control, they sent their minions like Aquon and Mogol to confront him physically. Enemies came in all shapes and sizes, ranging in power levels. From mere humans like Devastator, to evolved beings like the Inheritor, to monstrous powerhouses like Glob, Hulk always found a way to prevail – even against those who masqueraded as friends such as his old physics professor, Geoffrey Crawford – later known as Ravage.",
+        "templateType" : 0,
+        "title" : "Friends and Foes"
+      },
+      "Story-KmiGHWy-aCzIVfjqKnM" : {
+        "coordinates" : {
+          "x" : -105,
+          "y" : -5
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbb6cCSFi8EB3SofMG-Story-KmiGHWy-aCzIVfjqKnM?alt=media&token=f6808a1f-52f1-4261-a7ef-947534638615",
+        "story" : "Gamma-powered psychiatrist Leonard \"Doc\" Samson captured the Hulk and successfully separated Banner and his alter ego. Without Banner's psyche to restrain him, the Hulk became a greater danger than ever before. Realizing there was only one way to reign in the Hulk, Banner agreed to merge with the monster. But the stress of the re-integration fractured Banner's subconscious, creating the street-smart gray Hulk. During this time, he spent several years in Las Vegas, sometimes operating as an enforcer calling himself Mr. Fixit (or \"Joe Fixit.\") The smart-mouth Fixit was an ill-tempered, wise-cracking, thuggish brute whose personality resembled that of his father and the fraternity boys who surrounded him in college. It was also at this time that Joe Fixit began his a short-lived relationship with the future wife of Rick Jones, Marlo Chandler. In this state of the Hulk, Banner again found himself changing into the Hulk at night and into his human form in the light of the day. Soon after, the swirling mess of persona and mentalities took their toll on the ever-flustered mind of Dr. Banner, and a battle for supremacy and control took place in Banner's subconscious. With assistance by the Ringmaster and his hypnotic abilities, Doc Samson tapped into the subconscious of Banner and reached his separate incarnations. Through this hypnosis, Banner, the green Hulk, and the grey Fixit all aligned to face their true inner demons-- Banner's unresolved issues with his abusive father and the murderer of his mother. With this realization, Banner was able to fuse these mentalities together, finding peace of mind. However, a green but intelligent version of the Hulk emerged. He had the mentality of Dr. Banner but the body and abilities of the Hulk – later nicknamed the Professor. Although Banner had his dominant personalities merged together, there were a number of other personas running through his mind including that of a \"Devil-Hulk.\"",
+        "templateType" : 0,
+        "title" : "Multiple Personality Disorder"
+      },
+      "Story-KmiG_os50rI4zYXxUHC" : {
+        "coordinates" : {
+          "x" : -155,
+          "y" : -50
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbb6cCSFi8EB3SofMG-Story-KmiG_os50rI4zYXxUHC?alt=media&token=b7560672-3a68-41b2-9c63-9a3c0be0e458",
+        "story" : "While Banner was incarcerated at Gamma Base, a new mystery revealed itself when long-time Hulk foe, the Abomination, was found murdered in his homeland of Russia. A team comprised of Iron Man, General Ross, Samson, She-Hulk and Commander Maria Hill went to investigate only to determine the only suspect that could have done this was the Hulk. The perpetrator soon revealed himself on a S.H.I.E.L.D. Helicarrier, and it was indeed a massive creature referring to itself as the Red Hulk. This new incarnation of the Hulk decimated the likes of She-Hulk, Iron Man, Thor, and even Rick Jones in his new powered up identity named A-Bomb. Banner was set free when the conflict between the Red Hulk and A-Bomb caused a big enough earthquake to damage his prison. The potential threat to Banner's life triggered his transformation into the Green Goliath, and the Hulk wasted no time in confronting his new nemesis. The Hulk was caught unprepared for the Red Hulk's fighting style. He was defeated in their first meeting - suffering a broken arm in the process - but the outcome was much different during their second clash. The Hulk found a potential weakness in the Red Hulk and exploited it. Once the Red Hulk was beaten, the Hulk left before he could find out the Red Hulk's true identity. However, Banner had been spending his time trying to track down the Red Hulk before he can do anymore damage. On his journey, Banner ended up in Las Vegas where the Hulk had to team up with Sentry, Ms. Marvel, Moon Knight and even Brother Voodoo to quell a pack of Wendigos from devouring everyone inside a casino.",
+        "templateType" : 1,
+        "title" : "The Coming of the Red Hulk"
+      }
+    },
+    "Hero-KkbbZOf2xepcOEmOMMI" : {
+      "Story-KmiLO19aKofggdCCkXQ" : {
+        "coordinates" : {
+          "x" : -80,
+          "y" : -20
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbbZOf2xepcOEmOMMI-Story-KmiLO19aKofggdCCkXQ?alt=media&token=2ae82a6d-799f-4d7b-b78d-85204de1e6b4",
+        "story" : "Anthony \"Tony\" Stark was born to Howard Anthony Stark and Maria Collins Carbonell Stark, owners of the prominent US firm, Stark Industries. As a boy, Tony was fascinated with building and controlling machines. At the age of 15 Tony entered the undergraduate electrical engineering program at the Massachusetts Institute of Technology (MIT), and graduated with two master’s degrees by age 19. Tony went to work for Stark Industries, but showed more interest in living a reckless playboy lifestyle than using his engineering skills. At the age of 21, Tony inherited Stark Enterprises when his parents were killed in a car accident secretly orchestrated by rival corporation Republic Oil (later ROXXON). Still lacking in business acumen, Tony promoted secretary Virginia \"Pepper\" Potts to be his executive assistant and left the majority of his workload on her so that he could avoid what he saw as a burden. Tony personally attended a field test of his military hardware at one of his international plants; however, soon after his arrival Stark’s party was attacked by a gang of terrorists led by the Sin-Cong revolutionary Wong Chu. During the skirmish, a land mine went off and lodged a piece of shrapnel near Tony’s heart. Taken back to Wong-Chu’s camp, Tony shared a cell with Professor Ho Yinsen, a world-famous physicist. Wong-Chu demanded that the two scientists develop advanced weaponry for his forces. Knowing that he could not live long with the shrapnel so close to his heart, Tony proposed that he and Yinsen devote their gifts to creating one of the battlesuits he had been developing, equipped with a magnetic field generator to prevent the shrapnel from reaching his heart. The armor they created became the first true Iron Man armor and was equipped with crude magnetic weaponry for defense. While the armor’s battery was being powered, some of Wong-Chu’s men attempted to break in on the proceedings. Yinsen went to create a diversion and was shot to death by Wong-Chu’s men. When the battery had finished charging, Tony went into battle as Iron Man and tore Wong-Chu’s camp apart. He eventually returned to the USA with the aid of US Marine James \"Rhodey\" Rhodes. Tony offered Rhodey a job with his company should he ever need one.",
+        "templateType" : 0,
+        "title" : "Before the Iron Mask"
+      },
+      "Story-KmiM-IlPhtrs1AZ0zyI" : {
+        "coordinates" : {
+          "x" : -30,
+          "y" : -5
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbbZOf2xepcOEmOMMI-Story-KmiM-IlPhtrs1AZ0zyI?alt=media&token=bee446ab-6ed1-438c-a186-5daa64cb5efe",
+        "story" : "At first, Tony found his new life a torment; his armor’s chest plate had to be worn constantly and required frequent recharging. He kept the armor a secret from everyone, including his fiancée, Joanna Nivena. Turning suicidal and drinking heavily, Tony was supported by Joanna, with whom he shared his secret identity. Joanna encouraged him to use his armor as a super hero, but ultimately called off the engagement knowing Tony would not be the family man she desired.Tony worked to improve the Iron Man armor and claimed Iron Man was Tony Stark's personal bodyguard to disguise his identity. Tony played a dual-role with the formation of theAvengers both as the sponsor and, as Iron Man, as a founding member along with Thor, Ant-Man (Henry Pym), the Wasp (Janet van Dyne), and the Hulk. While pursuing Namor the Sub-Mariner, Iron Man came across the comatose body of Captain America (Steve Rogers) Rogers), the famous World War II super hero, preserved on ice. Revived, Captain America joined the Avengers and became an important teammate and friend to Tony. Later, Tony helped establish the international super-spy agency SHIELD to combat terrorist threats.During these early years as a super hero, Iron Man battled Mandarin, Hawkeye, and the Black Widow(Natasha Romanova).\n",
+        "templateType" : 2,
+        "title" : "A Self-Made Superhero"
+      }
+    },
+    "Hero-Kkbc3Ydy2I_AltdZSvP" : {
+      "Story-KmiTVik8tiDk3M7S488" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -60
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbc3Ydy2I_AltdZSvP-Story-KmiTVik8tiDk3M7S488?alt=media&token=408806a8-480c-426e-8d17-e6f7a5a9f903",
+        "story" : "Thor is one of several powerful ancient beings who dwell in a magical realm called Asgard. Through history, these beings have been revered and worshiped as gods. Ages ago, Odin, lord of the Asgardian gods, desired a child who would one day exceed him in power. Odin wooed Gaea, the earth goddess, and from their union Thor was born in a small cave in Norway on Earth. Odin took him to be raised in Asgard by his wife, Frigga.The young Thor grew up alongside his adopted brother Loki, the trickster, who was always jealous of his more favored sibling. Thor grew in power and popularity and on his eighth birthday, Odin had the hammer Mjolnir created for him, enchanting it with powerful magic. Odin decreed that Mjolnir would be presented to Thor when his son had been proven a worthy warrior. After spending the next eight years training and performing heroic deeds, Thor was given the hammer and declared the greatest warrior in Asgard.",
+        "templateType" : 2,
+        "title" : "Son of Asgard and Son of Midgard"
+      },
+      "Story-KmiTlBbrA1tzJRCpBQx" : {
+        "coordinates" : {
+          "x" : -25,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbc3Ydy2I_AltdZSvP-Story-KmiTlBbrA1tzJRCpBQx?alt=media&token=a35be621-1e07-4896-a53a-acae26a1c84a",
+        "story" : "While Thor continued to engage in many heroic battles and adventures through the years, he grew headstrong and proud. On one occasion, Thor broke a truce between the Asgardians and their enemies, the brutal Frost Giants, nearly starting a war. To teach his son a lesson in humility, Odin sent Thor to Earth in the mortal body of a crippled medical student, Donald Blake. Stripped of his hammer, his powers and memories of being an Asgardian, Thor, as Blake, graduated medical school with top honors, gained a reputation as a caring family doctor and a brilliant surgeon, and opened a private practice in New York City. He worked beside a caring and skillful nurse, Jane Foster, and the two fell in love. After 10 years on Earth, Blake received a subconscious prodding from Odin to vacation in Norway where alien Kronans were preparing to invade Earth. Fleeing into a cave (which, unbeknownst to him, was also his birthplace) Blake discovered a plain walking cane in a secret chamber. When Blake struck the cane against a boulder, he transformed into Thor while the cane became Mjolnir. Thor fought against the Kronans and their invasion was thwarted. Tapping the ground with Mjolnir, Thor was able to transform back into Don Blake, holding the simple wooden cane once again. Blake returned to New York, using his secret identity of Thor to fight crime, defend Earth and contend with the jealous and hateful Loki, who plagued Thor with many devious tricks and outright confrontation. One such trick led Thor and other heroes, including Ant-Man (Hank Pym), the Wasp (Janet van Dyne), and Iron Man (Tony Stark) to fight the Hulk (Bruce Banner). Learning of Loki’s manipulations, the heroes, along with the Hulk, bested Loki and agreed to continue their partnership, forming the Avengers. While Thor faced many struggles as an Avenger, his personal life as a human was also tumultuous. Despite the sincere love between Blake and Foster, Odin was displeased by the relationship between a god and a mortal. He forbade Blake from revealing his identity to her, creating a strange love triangle between Foster, Thor and Thor’s alter-ego, Blake.",
+        "templateType" : 1,
+        "title" : "A Lesson in Humility"
+      },
+      "Story-KmiTzQTVCDhPXl8lae-" : {
+        "coordinates" : {
+          "x" : -55,
+          "y" : 10
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbc3Ydy2I_AltdZSvP-Story-KmiTzQTVCDhPXl8lae-?alt=media&token=9f7182a9-05f6-4216-a654-7ee9f9941546",
+        "story" : "The fire demon Surtur, enemy of the Asgardian gods, ravaged a distant galaxy (the \"Burning Galaxy\") for the sake of forging his Twilight Sword, the \"Sword of Doom.\" A fleet of survivors of the galactic massacre from the planet Korbin traveled the cosmos in search of a new home, under the protection of their noble guardian, Beta Ray Bill. As the fleet ventured close to Earth, Thor mistook them for a threat and attacked the Korbinites. Separated from Mjolnir, Thor reverted into Donald Blake, while Beta Ray Bill retrieved and wielded the hammer, magically unliftable to all but the most worthy. With Donald Blake helpless and defeated, Bill made a claim to keep the hammer to help him fight back against Surtur’s demons. Odin had Thor and Beta Ray Bill compete for the right to use the hammer and Beta Ray Bill won, but Odin awarded him with a similar weapon, Stormbreaker, rather than disarm his son. Once Thor, Bill, and Sif defeated Surtur’s demons, Odin transferred the enchantment that changed Thor into Donald Blake onto Stormbreaker, so that Bill could revert to his mortal form. Thor, therefore, abandoned his Donald Blake identity, and resided in Asgard. He and Bill still successfully teamed together to vanquish Surtur when the demon led an assault against Asgard and Earth. Afterward, Bill departed with his people to find a new home. After commuting back and forth from Asgard to Earth to continue his heroic adventures with humans, Thor sought help from Nick Fury, director of the spy agency S.H.I.E.L.D., to create another human identity to enable him to live among humans. A new alias was created, that of construction worker Sigurd Jarlson. However, Thor infrequently used the guise, consumed by his adventures as Thor.",
+        "templateType" : 0,
+        "title" : "The Worthy Alien"
+      }
+    },
+    "Hero-Kkbc5uZCUTRNBF5uOri" : {
+      "Story-KmiakMD2T4AtPU943nR" : {
+        "coordinates" : {
+          "x" : -115,
+          "y" : -155
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbc5uZCUTRNBF5uOri-Story-KmiakMD2T4AtPU943nR?alt=media&token=4f31612e-23b5-4713-899b-dfae9e932e35",
+        "story" : "Orphaned as a baby when his parents were killed overseas in a plane crash as U.S. government spies, only child Peter Parker was raised by his elderly Uncle Ben and Aunt May. Academically gifted, Peter displayed an uncanny affinity for science that was nothing short of genius. Socially, however, he was painfully shy and the target of much cruelty by his peers at Midtown High School. Attending a public science exhibit when Peter was 15-years old, he was bitten on the hand by a radioactive spider accidentally irradiated by a particle beam, empowering Peter with the arachnid's proportional strength and agility, and the ability to cling to almost any surface. Most incredibly, he had gained a sixth sense that provided him with early warning of impending danger. Disguised, Peter tested his new-found abilities defeating professional wrestler Crusher Hogan in the ring, and earning some cash. Using his scientific prowess, he constructed a pair of artificial web-shooters that attached to his wrists. With an agent, a costume, and a new name, Spider-Man became an overnight sensation on television. Unconcerned with the rest of the world, he vowed to use his powers only to take care of himself and his aunt and uncle. After his first TV special ended, he allowed a burglar that he could have easily restrained to run past him and escape. A few days later, Peter returned home to find his beloved Uncle Ben had been shot and killed. When Spider-Man confronted the killer hiding in the old Acme Warehouse at the waterfront, he discovered to his horror that his uncle's murderer was the burglar he apathetically allowed to pass. Consumed with guilt, He became aware at last that with great power comes great responsibility, just as his beloved uncle had once said.\nTo help his Aunt May with finances, Peter took a freelance job at the Daily Bugle selling pictures of himself as Spider-Man to publisher J. Jonah Jameson. Despite Spider-Man rescuing his son, astronaut John Jameson, from a malfunctioning space capsule, Jonah used his newspaper to publicly condemn Spider-Man as a menace. Unlike heroes like the Fantastic Four or the Avengers, Spider-Man was mistrusted and feared by the public. At school, his popularity was no greater, as \"Puny Parker\" frequently clashed with bully Flash Thompson and his followers. Flash's girlfriend, Liz Allan, often complicated matters, harboring a crush on \"Petey\" and making Flash jealous.",
+        "templateType" : 1,
+        "title" : "The Boy, the Bite, and the Burglar"
+      },
+      "Story-Kmib1K3zxRVFqn_jQKk" : {
+        "coordinates" : {
+          "x" : -50,
+          "y" : -30
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbc5uZCUTRNBF5uOri-Story-Kmib1K3zxRVFqn_jQKk?alt=media&token=5e656d44-fad8-4670-bbfb-f3077fb18f76",
+        "story" : "Spider-Man soon found himself facing a rogue's gallery of powerful thieves, gangsters, and megalomaniacs including the Chameleon, the Tinkerer, the Vulture (Adrian Toomes), Doctor Octopus (Otto Octavius), the Sandman, Doctor Doom, and Electro. In Florida, he befriended Dr. Curtis Connors after administering an antidote to reverse his transformation into the terrible Lizard. Though he had many enemies, he also shared adventures with the Fantastic Four (including rival the Human Torch), the Avengers, the X-Men and Daredevil. At the Daily Bugle, he discovered a friend and his first love, Jameson's secretary, Betty Brant. Even more villains clashed with Spider-Man including the Green Goblin, the Big Man and the Enforcers, Mysterio (Quentin Beck), and Kraven the Hunter. Dating Betty became awkward after her brother, Bennett, was murdered in a clash between Doctor Octopus and Spider-Man. Betty at first held Spider-Man responsible. Though she later recanted, the thought of Spider-Man reminded her of losing her brother. At home, Aunt May suffered a heart attack, causing Spider-Man to abandon a fight with the Green Goblin. For a while after, the public viewed Spider-Man as a coward, before he made a comeback. May's fragile health and poor finances, however, remain a lingering concern. Frustrated by their defeats at the hand of Spider-Man, six of his top villains gathered forces under Doctor Octopus to form the Sinister Six. Through wits and determination, Spider-Man defeated the group one at a time.\n\nPeter Parker’s confidence gradually increased. At the same time, his relationship with Betty crumbled as handsome reporter Ned Leeds stole her heart. Jameson took his campaign against Spider-Man to a new level, sponsoring the creation of the deranged Scorpion, under Dr. Farley Stillwell. Though the Scorpion turned on Jameson, the publisher persisted with attacks against Spider-Man, and rented the first of a series of robotic Spider Slayers invented by Dr. Spencer Smythe. Spider-Man was able to use his technical know-how to defeat the Slayer. While Aunt May persisted with attempts to introduce Peter to Mary Jane Watson, the niece of neighbor Anna Watson, Spider-Man tackled organized crime led by the Crime Master and the Green Goblin. Tired of the Bugle's harassment, Peter tried selling pictures for the Daily Globe but gave up when the Globe's editor proved too nosy.",
+        "templateType" : 0,
+        "title" : "A Gathering of Enemies"
+      },
+      "Story-KmibN3yUjU6W_ESoBZl" : {
+        "coordinates" : {
+          "x" : -50,
+          "y" : -35
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbc5uZCUTRNBF5uOri-Story-KmibN3yUjU6W_ESoBZl?alt=media&token=b36acd4c-3d61-4b37-8f24-3bb145a347f0",
+        "story" : "Though Peter dated MJ on occasion, he soon fell for the more serious-minded Gwen, causing tension between Harry and himself. Peter met Gwen's father, retired police Captain George Stacy, who studied Spider-Man, and questioned Peter about his first-hand experience. The Kingpin brainwashed Capt. Stacy (using Norman Osborn's equipment) into stealing police records. After Peter published pictures exposing Stacy, the Kingpin kidnapped George and Gwen. Spider-Man and Osborn rescued the two, but the Kingpin escaped. The Kingpin next focused on stealing a legendary stone tablet but Spider-Man retrieved it, and left it with Capt. Stacy. The Shocker stole it back, and Dr. Connors was forced by Man Mountain Marko to translate it for an aged gangster, Silvermane. Connors revealed a formula for a youth potion. Silvermane drank the liquid, and became a young man again. Tragically, he could not stop the de-aging process, and shrank so small, he ultimately disappeared. Meanwhile, the stress on Dr. Connors triggered a transformation again. After a fierce melee across the city, with unwelcome help from the Human Torch, Spider-Man rescued Connors.\n\n\nThough Peter's frequent unexplained disappearances as Spider-Man have caused friction with Gwen, their love for each other gave Peter hope for a happy future together. As the bond between Peter and Gwen grew ever stronger, it was approvingly observed by Gwen's father, Police Captain George Stacy, who also supported the efforts of Spider-Man. But tragedy struck when Captain Stacy was crushed by a falling chimney, saving an innocent child during a battle between Spider-Man and Doctor Octopus. With his dying breath, Captain Stacy told Spider-Man, \"take care of Gwen, Peter\". Spider-Man had lost a great ally.\nGwen blamed Spider-Man for her father's death. Peter's conscience, already tormented by the ever present need to lie to Gwen, became even more troubled. Yet their love prevailed through life's challenges - including Harry's drug addiction, and Spider-Man's aborted attempt to remove his own powers, that instead resulted in him being transformed into a six armed freak. In the end, it was death which separated the two lovers. The Green Goblin kidnapped Gwen, and dropped her off the Brooklyn Bridge. Spider-Man tried, but failed to save her. In the vicious battle which followed, Norman was accidentally impaled by his own Goblin Glider. His apparent death was secretly observed by his son, Harry, who swore his own revenge on Spider-Man. Harry soon succumbed to the Osborn Legacy, kidnapping those whom Peter loved most, only barely being stopped from finishing the work that Norman Osborn had started.",
+        "templateType" : 0,
+        "title" : "The Girl, the Goblin, and the Great Heartbreak"
+      },
+      "Story-KmibZ3-gpexW0AFJn09" : {
+        "coordinates" : {
+          "x" : -105,
+          "y" : -205
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kkbc5uZCUTRNBF5uOri-Story-KmibZ3-gpexW0AFJn09?alt=media&token=1f34ded8-cd41-4097-8dc6-d7efbf9622fa",
+        "story" : "Entering his post-graduate studies, Peter's close college friends began to find their own lives. Liz Allan was dating (later to marry) a recovering Harry Osborn. Flash Thompson was looking for a life after football and the army, with his girlfriend Sha Shan. Betty Brant had married Bugle reporter Ned Leeds. Even Peter's Aunt May had found romance with Nathan Lubensky, fellow occupant of the convalescent home she had moved into. With his friends all in cozy couples, Mary Jane's departure was all the more unsettling. But it was not long before Peter began dating again. He enjoyed several dates with Cissy Ironwood. Also, departmental secretary Deborah Whitman was attracted to Peter, but failed to win his heart. Dawn Starr, undergraduate student, pretended to date Peter though actually wanting to sneak a look at an upcoming exam. Amy Powell tried to use Peter to make her fiancé Lance Bannon jealous. These women had one thing in common - Peter Parker. But when Felicia Hardy, crossed Spider-Man's path, things were different. Felicia was beautiful, talented, and determined. She was also an unrepentant burglar who had a romantic fascination with her web-slinging hero. Spider-Man persuaded Felicia to turn away from crime, and the two of them became lovers - and crime-fighting partners. Felicia urged Peter to spend more and more time in costume. The glamorous Black Cat could never bear to see her super-hero living the squalid life of post-grad student. Becoming Spider-Man was made easier since Aunt May had recovered enough to return home and open the Parker residence as a boarding home for retired people, aided by Nathan. Aided by the Black Cat, Spider-Man faced Doc Ock and the Owl - a battle which nearly cost Felicia her life. Peter was brought crashing down to earth. He realized that without super-powers, Felicia was just like the others from his past, who had so often paid the price for Peter being Spider-Man.",
+        "templateType" : 1,
+        "title" : "Looking for Love in All the Wrong Places"
+      }
+    },
+    "Hero-KkbdiXIWE8kmNYLIAG4" : {
+      "Story-KmiuDbMwTgtGEcqzRDm" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbdiXIWE8kmNYLIAG4-Story-KmiuDbMwTgtGEcqzRDm?alt=media&token=5047e810-201c-4660-8af5-f3062a03464a",
+        "story" : "Wonder Woman is Princess Diana of the immortal Amazons from Greek mythology.  When army pilot Steve Trevor crashes on the warriors’ secluded island paradise, Diana wins the right to escort him home and make her people known to the world. Entering our cynical world for the first time, there’s a lot she must wrap her head around, especially our ways of war, hate, and, well… dating. Helping her are her superhuman strength and speed, as well as the trademark bulletproof bracelets, but it’s probably her Golden Lasso of Truth most people really wish they had. Torn between a mission to promote peace and her own warrior upbringing, Wonder Woman fights evil while hoping to unlock the potential of a humanity she doesn’t always understand.",
+        "templateType" : 2,
+        "title" : "The warrior princess"
+      },
+      "Story-Kmiv-WGItScz72SZm7t" : {
+        "coordinates" : {
+          "x" : -35,
+          "y" : -100
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbdiXIWE8kmNYLIAG4-Story-Kmiv-WGItScz72SZm7t?alt=media&token=e0a8ef71-ff1f-4146-914f-47a272dd5794",
+        "story" : "Wonder Woman did not keep her identity a secret, and she was not at first a \"super-heroine\". Indeed, her character was in many ways that of a babe in the woods, innocent and without guile. Diana spoke only Themyscirian, a combination of classical Greek and Turkish. She had to learn English when she arrived in America, rather than knowing the language intuitively. Nonetheless, Diana was trained as a warrior and had no compunction against using deadly force when called for. Diana often dealt with war, injustice, inequality, death, and conflicts involving the Olympian Gods. Before embarking on her mission, Diana was given the Lasso of Truth, forged by Hephaestus himself. She was also given the Sandals of Hermes, which allowed her to instantly traverse great distances in seconds. Diana's mission was one of peace, but part of it initially involved defeating a mad plot by Ares to destroy the world. Diana ventured into the world by starting at Boston. There she met a Harvard professor, Dr. Julia Kapatelis, and her daughter, Vanessa Kapatelis, as well as the Air Force Officers Steve Trevor and Etta Candy. Diana stayed with Julia and Vanessa and over the course of a month or two, Diana learned to speak English. She was attacked at their home by Decay, one of Ares' minions, and after a battle that spilled out into the streets of Boston she first came to the public's eye and was given the name Wonder Woman. Upon discovering Ares' plan (one that involved creating a nuclear holocaust), Diana managed to foil it, battling through his sons Phobos and Deimos before finally convincing him the error of his ways with the Lasso. After defeating the God of War, Diana returned home for healing at the hands of Poseidon himself",
+        "templateType" : 0,
+        "title" : "In America"
+      },
+      "Story-Kmiw4EFyCcyO8MVTkwV" : {
+        "coordinates" : {
+          "x" : -175,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbdiXIWE8kmNYLIAG4-Story-Kmiw4EFyCcyO8MVTkwV?alt=media&token=2eb0429b-1af3-45d0-a16d-e689e7c04bae",
+        "story" : "At home, many of her Amazons sisters are crying out for vengeance, believing their queen to have been murdered. Diana asserts herself as the rightful leader of the Amazons, no matter what they decide to do. As they are debating, the Oracle announces that the gods have returned. No sooner does she do so when Diana is summoned to Mt. Olympus. The gods announced that something was terribly wrong with the order of things. They too had seen Pariah and did not understand his importance. Zeus had expended much of his power just summoning Hermes from the Earth, and it had taken the combined energy of the rest of the pantheon to summon Diana there. They told her that Donna Troy had also turned up. Just then, a new set of beings walked in like they owned the place--it was the Roman pantheon, led by Jupiter himself. The Roman gods announced that they had a human champion that would battle against the Greek's Wonder Woman--that champion was none other than Captain Marvel. Diana was forced to defend herself against a possessed Captain Marvel even while Hermes and Mercury engaged in round two. Wonder Woman defeated Captain Marvel. Circe began to unveil her master plan, unleashing chaos across the globe. While Wonder Woman was on Olympus, Heracles traveled to Paradise Island. Once there, earthquakes began to rock the island. Traveling beneath it, Heracles found Atlas with the island on his shoulders. This was the Roman Atlas, and he mistook Heracles for Hercules. Once they got that straightened out, they were just as confused as anyone. Back in the U.S., Mnemosyne, Timandra, and Epione were being transported by a military escort that was attacked by Amazons--but no Amazons the three prisoners recognized! These Amazons left a few survivors in the escort to tell the tale, then gassed the three prisoners and took them with them. Diana, after her victory over Marvel, was transported back to Boston.Diana ended up at the house of a police inspector, Edward Indelicato, whom she was friends with. She recounted her story and Edwards agreed to help her. Diana, sensing that Circe truly was to blame for all the madness going on, decided that she had to track down Doctor Fate for assistance, who gave her a spell that made her invisible so she could return to Boston. The spell wore off when she (literally) ran into the Silver Swan, which was dumb luck as Valerie had been looking for Diana to give her some guidance. Diana had little to give, however, as distracted as she was by everything else going on. A call to Black Canary put Diana in contact with Batman, whom she asked to retrieve the missing Themysciran goblet that she believed would help exonerate her people for the massacre in Gotham. Diana then banded together with Zatanna, Phantom Stranger, Spectre, Dr. Fate, Flash (Wally West), Madame Xanadu, and Geo-Force to try and undo the spells Circe had woven. Circe had expected this, and planned on cultivating the energy from the spells the group was now casting--but her plan backfired and her spells were undone: yet the war continued.",
+        "templateType" : 1,
+        "title" : "War of the Gods"
+      },
+      "Story-Kmiwt4VobLSh8NE7Tsy" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -60
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbdiXIWE8kmNYLIAG4-Story-Kmiwt4VobLSh8NE7Tsy?alt=media&token=2b2a83c8-ccc8-458a-ad29-ecc3d30b5f67",
+        "story" : "Wonder Woman became a popular female hero figure around the time of the Teen Titan's creation. Around this time, Wonder Woman had become part of the Justice League of America with Wonder Girl, then Donna Troy and Diana's pupil, joining the Teen Titans. Diana, with Batman, Flash, and Aquaman supported the teens to team-up and work with the Justice League.",
+        "templateType" : 2,
+        "title" : "Involvement with the Teen Titans/Joining the JLA"
+      }
+    },
+    "Hero-KkbfeYOZMFFCHDYaJbX" : {
+      "Story-KmnERwxbPaw6JBLwCZ7" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -80
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbfeYOZMFFCHDYaJbX-Story-KmnERwxbPaw6JBLwCZ7?alt=media&token=7c28053e-4cb0-4699-ba8d-18d04b5e906c",
+        "story" : "One of the world's greatest spies and master of disguise, she's the legendary scarlet-haired NATASHA ROMANOVA, the BLACK WIDOW! Born circa 1928, Natalia \"Natasha\" Romanova was apparently orphaned as a child when she was trapped in a burning building during an early attack on Stalingrad by enemy forces. Ivan Petrovitch Bezukhov, a Soviet soldier, found Natasha in the inferno and rescued her. Although Ivan kept a close eye on Natasha as she grew, by the late 1930s she had attracted the attention of Soviet intelligence, which began her training. In 1941, she was almost brainwashed into serving the ninja clan the Hand, but was saved by Ivan, Logan (James Howlett, later Wolverine) and Captain America. Following World War II, Natasha was recruited to become part of the Black Widow Program, a team of elite female sleeper agents. Among the Widow’s instructors was the Winter Soldier, formerly Captain America’s sidekick Bucky (James Barnes); Natasha studied as a ballerina to cover for her true occupation. The Soviet state eventually arranged for Natasha to marry Alexi Shostakov, a champion test pilot. After a few years of a happy marriage, the KGB faked Shostakov’s death in a rocket test; grief for Shostakov drove Natasha’s resolve deeper and she continued her education with the Red Room Academy, finally being appointed the title of the Black Widow.\n",
+        "templateType" : 0,
+        "title" : "Origin  of the Black Widow"
+      },
+      "Story-KmnEcwZ8BDqGbNVxr4j" : {
+        "coordinates" : {
+          "x" : -45,
+          "y" : -25
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbfeYOZMFFCHDYaJbX-Story-KmnEcwZ8BDqGbNVxr4j?alt=media&token=d4afdf65-3c8b-464c-847c-66fd8303e8b3",
+        "story" : "In one assignment, Natasha helped American mercenary Danny French steal a unique energy globe from Project: Four, though French absconded with the globe, betraying their employer, munitions magnate Damon Dran. Subsequently, when Logan, his memories of their past relationship suppressed by Weapon X, traveled to the USA following his recruitment by Canada’s Department H, Natasha protected him from Hydra assassins, as did his former intelligence comrades Nick Fury and Carol Danvers. Natasha and Logan ended up on opposite sides when he joined Danvers and pilot Ben Grimm to steal a Russian asset she oversaw, the top-secret Red Storm Project. She also trained fellow Russian operatives, including Boris Bullski, who became her partner in various assignments. After Russian scientist Anton Vanko left Russia to work with Iron Man (Tony Stark), Natasha’s superiors sent her and another operative, Boris Turgenov, to assassinate both men. When Turgenov stole Vanko’s Crimson Dynamo armor, both Turgenov and Vanko died in battle but Natasha escaped. Later, feigning repentance, she romanced Stark long enough to steal his experimental anti-gravity ray. With it, she performed several acts of sabotage against the USA until Iron Man deactivated the device. Her cover blown, she romanced and manipulated the outlaw archer Hawkeye (Clint Barton) into working with her, helping him enhance his archery arsenal with high-tech arrows. The pair attacked Iron Man, who deflected one of Hawkeye’s explosive arrows, its impact felling Natasha and ending the battle when Hawkeye rushed her to safety. While recovering, she persuaded Hawkeye to attack her superiors’ next target, Williams Innovations, but Spider-Man’s intervention drove Hawkeye away. The idealistic Hawkeye’s growing influence upon Natasha led her to rebel against her communist superiors, who extorted her into returning to action with a new costume and weapons, but she and Hawkeye again failed against Iron Man.",
+        "templateType" : 1,
+        "title" : "Enemy of the West"
+      },
+      "Story-KmnEqkn5skRsuVDjLTL" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -5
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbfeYOZMFFCHDYaJbX-Story-KmnEqkn5skRsuVDjLTL?alt=media&token=a37d5baa-852c-41be-bb51-16e3ee1030ae",
+        "story" : "After briefly being brainwashed into fighting the Avengers, she returned to Russia and broke all ties with her former superiors. When she returned to the USA, she divided her time between freelance work for Nick Fury of S.H.I.E.L.D. and informal assistance on Avengers missions against the Sons of the Serpent, the Ultroids and others. When she and Hawkeye were captured by General Yuri Brushov, she learned Alexi Shostakov still lived as the Red Guardian; he protested his employers’ dishonorable treatment of the Avengers and seemingly sacrificed his life to save them. Unaware Shostakov had again survived, a depressed Natasha retired from action before the Avengers could induct her as a full-fledged member, and she contemplated a marriage proposal from Hawkeye which gained more emotional impact after she briefly believed him dead; however, when Ivan Petrovitch resurfaced in the USA to again serve as her friend and confidant, Natasha’s spirits lifted and she broke ties with Hawkeye to pursue a solo vigilante career, fighting the Astrologer, Watchlord and others. Time-traveling android Mr. Kline arranged for Natasha’s path to cross Daredevil’s when he manipulated her into saving Daredevil from the Owl; Kline next framed her for murder via an android Scorpion duplicate, and Daredevil, as Matt Murdock, defended her in court. Natasha’s romantic interests in Daredevil grew, all in accordance with Kline’s plans to manipulate the present to achieve a desired future. Kline seemingly perished before further manipulating the two heroes, but they remained together as a crime-fighting couple, battling Daredevil’s enemies Gladiator (Melvin Potter), Electro (Maxwell Dillon), Purple Man and Mr. Fear in rapid succession. Accompanied by Ivan, Natasha and Matt left New York for California, where they were set against Damon Dran, now calling himself the Indestructible Man, who might have killed them had Danny French not sacrificed his life to stop Dran. Following an encounter with an embittered Hawkeye, Natasha and Daredevil briefly returned to New York to fight Magneto alongside the Avengers, who finally awarded her full membership; however, the team’s subsequent encounter with the Lion God made Natasha question her place in a team environment, and she left the Avengers to rejoin Daredevil in California, fighting Angar the Screamer, Ramrod and several other superhumans mutated by Moondragon for use against Thanos.",
+        "templateType" : 0,
+        "title" : "Partner with the Devil"
+      },
+      "Story-KmnFJ-qNitrmHRGJcpl" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -5
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbfeYOZMFFCHDYaJbX-Story-KmnFJ-qNitrmHRGJcpl?alt=media&token=579ba857-d94a-424d-9639-708d1d67ff5f",
+        "story" : "After fighting alongside Daredevil against the terrorists of Black Spectre and Hydra, Natasha encountered another terrorist group, the Sword of Judgement and discovered their leader Agamemnon to be her long lost friend Andre Rostov, who was arrested after a clash with her and the Thing. Growing alienated from Daredevil since she felt he did not regard her as an equal, Natasha ultimately ended their relationship but remained in California. She found herself first among equals after chance brought her together with X-Men alumni Angel (Warren Worthington III) and Iceman (Robert Drake), as well as demonic vigilante Ghost Rider (Johnny Blaze), to help her fellow Avenger Hercules and Venus against their enemy Pluto. After Venus’ departure, the remaining heroes formed a new super-team, the Los Angeles-based Champions. Although the wealthy Angel was the team’s financier and biggest public backer, Natasha was unanimously recognized as the most qualified tactician and she agreed to become team leader, also embarking on a rebound romance with Hercules.Following the Champions’ defeats of insane scientists Dr. Edward Lansing and Rampage (Stuart Clarke), she and Ivan, as well as the now-defected Alexi Bruskin, were attacked by several Russian super-agents, including Ivan’s son Yuri, using the Crimson Dynamo armor, and Boris Bullski, now Titanium Man; the Champions thwarted the Russians’ scheme of vengeance, and young Russian mutant Darkstar (Laynia Petrovna) defected to the heroes’ team. After battling many villains, the Champions ultimately disbanded due to conflicting priorities and personalities. Natasha and Hercules remained together for a time, and she returned to occasional S.H.I.E.L.D. assignments. She assisted the Avengers on a few adventures, including their clash with the cosmic-powered Korvac; during that case Natasha realized how fleeting mortal relationships must seem to an immortal like Hercules, leading the couple to drift apart. She and the Avengers intervened when Daredevil was mind-controlled by Death-Stalker (Philip Sterling), and following Daredevil’s recovery, she fought alongside him against the Unholy Trio. After an Avengers roster shake-up orchestrated by Henry Peter Gyrich excluded her, Natasha was captured by Viper but escaped and retreated into a pre-programmed S.H.I.E.L.D. persona, schoolteacher Nancy Rushman; when her true psyche was restored, she joined Spider-Man and others in rescuing the entire S.H.I.E.L.D. Helicarrier from Viper. Abducted by Bullseye because of her status as Daredevil’s longtime ally, Natasha soon escaped and helped Daredevil defeat the insane assassin. Weeks later, Natasha rescued Ivan from Damon Dran, whose grudge was no less undying than he was, and Natasha fought several costumed mercenaries, including former Russian agent Iron Maiden, in the process.",
+        "templateType" : 1,
+        "title" : "Agent of the S.H.I.E.L.D"
+      },
+      "Story-KmnFYRntQPPW-ZnRuqT" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbfeYOZMFFCHDYaJbX-Story-KmnFYRntQPPW-ZnRuqT?alt=media&token=3d3fc6d6-06fd-4c7e-80ba-04aefa5926f8",
+        "story" : "A chance investigation once more brought Natasha into contact with the Hand, who struck her down with a fatal poison. Daredevil’s ally Stone, of the Chaste, an order of warriors opposed to the Hand, mystically resurrected her. She joined the two men in battling the Hand, seemingly thwarting the ninja clan’s efforts to similarly resurrect Daredevil’s long-lost love, the assassin Elektra Natchios, who was nonetheless revived.By now Daredevil had rekindled his relationship with an earlier lover, Karen Page, whose life Natasha saved during the Inferno crisis. Natasha was drawn back to Avengers duty during such major crises as the Acts of Vengeance and a series of attacks from Atlantis (orchestrated to restore the Elder God Set), and she gained a new, far different ally when she joined the Punisher against the Sunrise Society, a cabal with origins linked to World War II. After Russian dissidents manipulated her into crime using an LMD (android) version of Alexi Shostakov, Natasha revisited another piece of her past by reuniting with longtime friend Logan, now the X-Man Wolverine, to once more battle the Hand in Madripoor. Soon afterward, she rejoined the Avengers full-time when the team reorganized under a new United Nations charter, becoming Captain America’s deputy leader; between missions, she and fellow ex-Champion Darkstar battled Starlight, another former Russian operative who had once succeeded Shostakov as the Red Guardian. When Natasha’s long-dormant Oktober persona was activated, Iron Man helped her break her brainwashing.Despite her Avengers duties against the likes of Thanos, the Mole Man and others, Natasha still found time for occasional government work, as when she and Daredevil battled the telepathic Rose, who had slaughtered a number of S.H.I.E.L.D.’s ESPer agents. Soon afterward, she once more returned to Russia to investigate increasing activities of the nation’s mobsters, some of them perhaps once among her communist overseers, only to be caught in a battle between the decades-old vigilante Night Raven and his nemesis Yi Yang. Circumstances forced her to side with S.H.I.E.L.D. against Wolverine when the latter freed from S.H.I.E.L.D. custody the feral young woman Lynx, who was briefly programmed with a false S.H.I.E.L.D. identity once used by Natasha herself. Nevertheless, Natasha’s heart was not in the endeavor, and when Wolverine found a safe haven for Lynx, she and Nick Fury toasted their mutual friend’s success.",
+        "templateType" : 2,
+        "title" : "Death by the hand "
+      }
+    },
+    "Hero-KkbhHk17IbGpUA8RRZ6" : {
+      "Story-KmnQ88wTxHWyOrdNQkw" : {
+        "coordinates" : {
+          "x" : -30,
+          "y" : -50
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbhHk17IbGpUA8RRZ6-Story-KmnQ88wTxHWyOrdNQkw?alt=media&token=2e3fe031-5b0f-4368-9cd3-258512e1af78",
+        "story" : "Kara Zor-El is the daughter of Superman's uncle Zor-El and his wife Alura. Kara is actually older than Kal-El (Superman); she was a teenager when he was a baby. When Krypton was attacked by Brainiac, he took Kandor with him, while Kara and her parents remained in Argo.[1] After Brainiac's attack, her father created a force-field around Argo using a Brainiac Probe. When Brainiac came to consume Argo City, her parents had no choice but to send her in a rocket headed for Earth. However, her rocket was caught in a large kryptonite-encrusted meteor and she arrived on Earth years after her cousin did.After some initial confusion, Kara was found by Superman and Batman and trained by Wonder Woman. She was captured by Darkseid, and after being brainwashed, attacked her own cousin. Superman defeated her and returned her to Earth, where he faked her death so Darkseid would not come looking for her. She then assumed the role of Supergirl. However, she felt out of place, not sure where she really belonged. Kara was uncomfortable with her cousin's over-protectiveness, and she could not hang out with her Earth-Two counterpart Power Girl since their powers went haywire whenever they touched, although she found kindred spirits in her other \"cousin\" Superboy. Kara's self-discovery was interrupted when Lex Luthor used Black Kryptonite to split her into a good Kara and an evil Kara. The evil Kara claimed that she was sent to Earth by Zor-El for the sole purpose of killing the infant Kal-El. Zor-El had devised a special crystal that would influence her personality as she traveled to Earth, making her \"innocent\", thus creating the good side of Kara's personality. However, the good side became dominant. At the climax of the struggle between the two Karas and the Justice League, the good Kara urged Wonder Woman to use her golden lasso of truth to bind the two together and ask: \"Who is Kara Zor-El?\" The two Karas fused back into a single good Kara, who decided her past was not important and acknowledged Batman, Wonder Woman, and Superman as her foster parents. Later, Supergirl joined Donna Troy and other heroes to help prevent a coming crisis. While in deep space, Kara was struck by an altered zeta-beam and disappeared.",
+        "templateType" : 1,
+        "title" : "Surviving Krypton"
+      },
+      "Story-KmnQVtOSA3_PZfA9dRG" : {
+        "coordinates" : {
+          "x" : -30,
+          "y" : -20
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbhHk17IbGpUA8RRZ6-Story-KmnQVtOSA3_PZfA9dRG?alt=media&token=e008fc8d-98b7-4437-9a7d-1e9be395539a",
+        "story" : "Kara re-appeared in the 31st century. She was revered as a member of the Superman family. Upon her arrival, she concluded that she was \"dreaming\" the Legion and that the 31st century wasn't real. Saturn Girl, attempting to learn more about how Kara arrived in their era, scanned Kara's mind and found a particularly vivid memory -- that of the Zeta-Beam accident. The Legion hypothesized that Kara was rationalizing her fantastic existence by believing her life was a dream. In a relatively short period of time (due to suspended animation), she lost her planet and her parents, arrived on Earth to find her baby cousin grown up and a legendary hero, discovered her extraordinary powers and quickly reached the status of \"living legend\", and then found herself inexplicably thousands of years in the future. To complicate matters, every time Supergirl wanted something to happen in her supposed dream world, it happened. For example, when told she couldn't become a full member because the Legion was out of flight rings, one was immediately sent to her from Brainiac 5. She had a few adventures with the Legion before Brainiac 5 came close to a means of returning her to the 21st century. He invented the Chronexus (a time window) that she and some of the other Legionnaires viewed various parts of Superman's history (including references to another Legion).[6] Brainiac 5 secretly worked with Sev Tcheru to perfect the Chronexus technology by making it a real, but limited time machine. It only worked one way, and only once. When this was revealed, Saturn Girl convinced Kara that she should go back to her native era. Sev Tcheru wiped out Kara's memory of the Legion right before she went, as knowledge of future history was considered dangerous.",
+        "templateType" : 0,
+        "title" : "Supergirl and the Legion of Super-Heroes"
+      },
+      "Story-KmnQwOlcKL3AjdlX9lT" : {
+        "coordinates" : {
+          "x" : -270,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbhHk17IbGpUA8RRZ6-Story-KmnQwOlcKL3AjdlX9lT?alt=media&token=5855ebb0-9c1e-440c-929f-fc2c153f54e0",
+        "story" : "Kara re-established herself on Earth, attaining financial independence after selling an item of Kryptonian technology to Batman. Afterwards, Kara purchased her own apartment. Kara attempted to develop familial ties with the Kent Family, who were still mourning the loss of Superboy. During a visit, Kara took one of Superboy's's trademark black t-shirts and gave it to his mourning girlfriend, Cassie Sandsmark, a.k.a. Wonder Girl. From there, Kara and Cassie forged a close friendship. She also developed a close relationship with former-villain Captain Boomerang II. Owen clearly wished to date Kara, but she instead saw him as a big brother of sorts. In an attempt to create a secret identity, Kara started going to high school under the name Claire Connors, a teenage girl from Kansas. Kara used a wig, glasses, and plain clothes to become \"Claire.\" Her attempts to assimilate failed because she was unable to connect with the other students, and she dropped out after a week or so, due to cruel classmates. As a favor to Captain Boomerang, Supergirl was granted an \"audition\" with the Outsiders. Having encountered the group once before, she had a crush on team leader Nightwing (she even stole a kiss, her \"first true one\", from Nightwing during their first encounter).[10] The members of the Outsiders were all very suspicious of her. During a mission, they left out several important details to test her. Kara was upset that the Outsiders decided to test her rather than tell her all the details and trust her. As a result, she decided to not join the team. A short while after Kara met a new teenage super-hero, Power Boy. The two first met while rescuing hurricane victims in Mexico, and again later in Hollywood where they teamed up to fight two villains known as Gakidou and Sakki. Afterward, she began dating Power Boy (without telling Captain Boomerang). Around of this time, she began experimenting a series of haunting hallucinations that showed Zor-El subjecting an unwilling Kara to grievous experiments to enhance her powers; in fact, when badly injured by Batgirl (Cassandra Cain) in an artificial red-sun environment, Kryptonian Sunstones sprouted from her body, healing her and impaling her foe. Kara accompanied Hal Jordan on a mission to the casino world of Ventura. She assisted the Green Lantern partly out of a desire to see more of the universe and partly in order to avoid a lecture about responsibility from her cousin. Her personality was slightly different from normal, as she appeared to be quite flirtatious and playful with Hal, but when he politely rebuffed her advances, she entered a gladiatorial contest dressed in a pink dress and pigtails. The ploy turned out to not only be a response to Hal's comments, but also a clever ruse designed to flush out their prey.",
+        "templateType" : 1,
+        "title" : "Supergirl: Identity"
+      },
+      "Story-KmnR7j0sxVUxii8T1i4" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbhHk17IbGpUA8RRZ6-Story-KmnR7j0sxVUxii8T1i4?alt=media&token=1462025e-1b7b-413f-8bd2-d89519b05997",
+        "story" : "Later, when Wonder Girl confided in Kara some of her personal problems, they discovered that the Amazons of Themyscira had invaded Washington, D.C. as part of the events of Amazons Attack. Because of the McCarran Internal Security Act, implemented by the U.S. President, Wonder Girl's mother and a friend of Supergirl's, named Alison, were held at an internment camp. As they tried to storm the camp and free the women, they were stopped by the Teen Titans, and told by Robin that negotiation would be a better solution.[19] Consequently, they flew to Washington D.C. and spoke with Queen Hippolyta, who told them that negotiations were impossible, since the President was safe on Air Force One. Agreeing to bring the U.S. leader to the Amazon Queen, the two girls blocked the path of Air Force One and threatened to bring the plane down if the President did not come with them. Kara received membership with the Teen Titans shortly thereafter, though her tenure with the Titans was extremely brief. Although no longer a member, Kara participated in several adventures with the young heroes.",
+        "templateType" : 2,
+        "title" : "Countdown"
+      }
+    },
+    "Hero-KkbihfkzrhWhQJJOBb1" : {
+      "Story-KmoEmpRa3NB3gMfHGcD" : {
+        "coordinates" : {
+          "x" : -25,
+          "y" : -85
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbihfkzrhWhQJJOBb1-Story-KmoEmpRa3NB3gMfHGcD?alt=media&token=228665a3-c6db-4648-bfe8-678a3d477b51",
+        "story" : "Jennifer Walters, the meek and mousy lawyer cousin of Bruce Banner, was the daughter of Sheriff Morris Walters. Agents of Nicholas Trask, a crime boss who had crossed paths with her father, shot and seriously wounded her on a day when her cousin was in town. Bruce gave her a blood transfusion, as no other donors of her blood type were available; the radioactive blood mutated Jennifer as it had her cousin, transforming her into the She-Hulk. Although Jennifer was at first savage while in her form as She-Hulk, she eventually gained the same intelligence she had as the normal Jennifer Walters. She quickly came to appreciate the confidence and assertiveness that had come with being She-Hulk. For a long time, she felt more comfortable in her form as She-Hulk than in her \"normal\" form as Jennifer. But she has gradually grown comfortable in both forms, and realized that she has much to offer the world in both her forms. After a brief solo career, she joined the Avengers and temporarily replaced the Thing in the Fantastic Four. During her tenure with the Fantastic Four, the She-Hulk had to prevent a radiation leak in a downed S.H.I.E.L.D. Helicarrier. This radiation exposure apparently mutated Jennifer to the point that she could not transform back into her original form. But this was an agreeable turn of events for her, since she preferred her She-Hulk form anyway. It was revealed much later that the \"genetic block\" was in fact purely psychological, shortly before a similar block locked her in non-Hulk form. That block proved to be temporary.",
+        "templateType" : 2,
+        "title" : "Origin"
+      },
+      "Story-KmoEzCDUaKRUWLM7qg2" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -65
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbihfkzrhWhQJJOBb1-Story-KmoEzCDUaKRUWLM7qg2?alt=media&token=8aca932f-c429-4aae-a783-2f92c6a3524b",
+        "story" : "After fighting solo for a while, Jennifer joined the Avengers upon the request of her friend the Wasp, who was the founding female member of the team. This was during the same time that the archer Hawkeye rejoined the Avengers. She-Hulk and Hawkeye had clashing personalities and were always at each others throats, but during a battle with the Masters of Evil, she was unwillingly turned back into Jennifer Walters by the Radiation Man. Feeling helpless, she became depressed, but thanks to Hawkeye cleverly taunting her, she was able to become the She-Hulk once more. She continued to work with the Avengers up until the Secret Wars, when she became a temporary member of the Fantastic Four, replacing The Thing until he returned.While on a mission with the Fantastic Four, She-Hulk attempted to prevent a deadly radiation leak on board a SHIELD Helicarrier. She successfully stopped the radiation, but afterwards it appeared that she could not transform back to her normal body. However, Jennifer happily accepted this as she loved to be in her She-Hulk form more then her normal human body. Eventually, it would be revealed that the reason she could not change back to her normal body was because she was psychologically blocking that ability. Jennifer would eventually be able to transform back into her human body. After the Thing returned to the Fantastic Four, Jennifer voluntarily left the team and re-joined the Avengers. She also got a new job on District Attorney Blake Tower’s staff. Jennifer would eventually learn that one of the workers there was a former Golden Age super heroine named Blonde Phantom. Blonde Phantom was the reason that Jennifer gained a job on the District Attorney’s staff. After a while she left the Avengers, returning only occasionally when they truly needed her.",
+        "templateType" : 0,
+        "title" : "Avengers and the Fantastic Four"
+      },
+      "Story-KmoFYZbuCEB-Kn9xQnd" : {
+        "coordinates" : {
+          "x" : -45,
+          "y" : -60
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-KkbihfkzrhWhQJJOBb1-Story-KmoFYZbuCEB-Kn9xQnd?alt=media&token=5d4202b9-e6ea-4e3e-a148-e4771653d12c",
+        "story" : "Jen, in her She-Hulk form, had become somewhat of a nuisance to the other Avengers with her extreme life style and her wild parties that were threating to destroy the foundations of the Avengers Mansion, everyone had enough and Jen was forced to leave her home. At the same time she lost her job due to an incident with a photocopier. This sent Jen into state that not even alcohol could cure due to her \"unique metabolism and immense body weight\", said by Holden Holliway who offered Jen a job at his law firm on the condition that he wants Jennifer Walters and not She-Hulk which she accepts the offer. During her first case in which Jen defends a new superhero whos powers are affecting his life and loved ones, Jen depowers herself to convince her client not to blow himself up, taking her with him. He agrees and Jen gets to work. Using a trick of placing a blue dot over the man's face so the jury would see the man inside rather than the hero with powers, Jen won her first case for the company and did it without her powers, stating that \"some of the things that She-Hulk can't handle--Jennifer Walters can\", this was a echo to a similar said line at the end of The Savage She-Hulk #1. Jennifer later would defend Spiderman in the Spiderman vs JJ Jameson case in which Peter Parker was looking for three hundred million dollars in damages against the Spiderman name. During the hearing Spiderman's old foe the Scorpion attacks, seeing that he could take out two birds with one stone but he is stopped by Spidey and Shulkie. While it looks like Peter would be winning the case, he finds out that he cannot sue JJ without getting himself sued in the process for making false images of Spiderman for the Daily Bugle. With no other choice, Spidey asks to settle out of court on the condition that both Peter and JJ dress up like chickens and hands out apology notices, JJ refuses at first but when hes reminded how much money he could lose, he agrees. She-Hulk would next become the watcher of Holden's Granddaughter Sasha Martin aka Southpaw, the two don't get along as Jen sees Southpaw as a rebellious brat and Sasha sees She Hulk as an overpowering authority figure. While getting Southpaw out from a prison were super powered villians are shrunk down with pym particles, a number of the inmates escape by shrinking down even further and hitching a ride on She-Hulk herself however Jen would defeat and send them all back to jail except for the Thinker. Southpaw would have to travel to space with Jen as she is selected to join the Magistrati, agents of the living tribunal who govern justice across space and time. One case has Jen fight a warrior known as the Champion of the Universe in defense of planet Skardon, Jen however loses the fight but requests a rematch which is granted for three months time. Due to something one of Jen's colleague said either, she has an idea, she builds muscles in her normal form so that her hulk form has even more power. The plan works but after Southpaw gets into a fight with the Champion Sasha mentions that she tried to fix up a fight with Champion too but because of the Gauntlet on her left hand being classed as a weapon she couldnt fight as foreign objects are not allowed in the ring, this gives Jen another idea. On the day of the fight Jen states that the Infinity Gem that Champion has on his forehead is illegal by Skardon law however she makes a bet that if she beats him he can never use the gem again, he agrees but states if Champion wins he take She-Hulk as his wife which Southpaw accepts on Jen's behalf, he has it removed but doesn't notice She Hulk became more powerful until she removed her robe. She-Hulk crushed Champion in seconds and ended his tyrannical reign, afterwards both Jen and Sasha then returned to Earth.",
+        "templateType" : 1,
+        "title" : "A New Job"
+      }
+    },
+    "Hero-Kl1a10FPWd6NQEHx56E" : {
+      "Story-KmoNtvSKnyQHOssagj5" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -85
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kl1a10FPWd6NQEHx56E-Story-KmoNtvSKnyQHOssagj5?alt=media&token=cf951af0-5153-4003-9d34-bbfa0d2040a4",
+        "story" : "Buffy Summers considered herself a normal high school student until a stranger approached her and explains her destiny. Buffy only gradually accepted her new role as Vampire Slayer and prevented the vampire Lothos from taking over Los Angeles.A year after the end of the television series, Buffy and Xander now lead command-central, which is situated at a citadel in Scotland. At their disposal are a wide array of psychics, seers, witches, and Slayers, along with a vast amount of technology, revealed to be the result of Buffy robbing a Swiss bank to acquire the funds. There are 1,800 Slayers worldwide according to Buffy, almost 500 of whom are working with the Scoobies, separated into 10 squads. Squads include Andrew's in Southern Italy, Giles' in England, Vi's in New York City, Robin's in Cleveland, Ohio, and another led by Rona in Chicago, Illinois. For Buffy's protection and because her name is feared worldwide, two decoys are put in place: one partying in Rome and one on a mission in demonic underground caverns. Buffy now relies heavily on Willow, whose character arc sees her under the tutelage of a powerful demon called Saga Vasuki. Under Saga Vasuki, Willow's power has grown phenomenally; for example, she can now fly and cast extremely complicated and large-scale spells. In the wake of Sunnydale's destruction, elements within the U.S. government view the expanded Slayers and the Scooby Gang as international terrorists and characterize Buffy as a \"charismatic, uncompromising and completely destructive\" leader. General Voll, a member of a mystically aware Initiative-like government project, describes fear of their resources, power, and ideology. The government has teamed with Sunnydale survivor/powerful witch Amy Madison and Season 6 villain Warren Mears in the hopes of bringing Buffy down. Simultaneously, an evil British socialite Slayer called Lady Genevieve Savidge plots to usurp Buffy's place in the Slayer hierarchy, and a shrewd cabal of Japanese vampires scheme to reverse the global activation of Potential Slayers in \"Chosen\". The appearances of these villains are connected to \"Twilight\", the enigmatic Big Bad of the season, a masked person who views the expanded ranks of Slayers as a threat to humanity and wants to destroy them, and bring about an end to all magic on Earth. It later transpires that like Amy and Warren, Buffy's ex-boyfriend Riley Finn is also loyal to Twilight, though Riley turns out to have been Buffy's double agent.",
+        "templateType" : 0,
+        "title" : "Buffy Summers You're not Normal!!!"
+      },
+      "Story-KmoOVrFNhfhNbAf8ADM" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -45
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kl1a10FPWd6NQEHx56E-Story-KmoOVrFNhfhNbAf8ADM?alt=media&token=a71d8e70-fc59-4f3d-9784-09ed8d04319c",
+        "story" : "Halfway through the season, ditzy vampire Harmony Kendall rises to fame as a reality TV star and ushers in a new pro-vampire, anti-Slayer world order. Under attack from Twilight and other demons as well as militaries across the world, the various Slayer squads (including Faith) reconvene in retreat from their enemy. Because Twilight can now track the group through their use of magic, Buffy and her friends relocate to Tibet to learn from Oz how to suppress magical natures for witches and Slayers alike. Giles and Buffy are both concerned with the extent to which they rely on Willow, worried she may go overboard again as in Season Six; Buffy's fears are in part justified by her visit to the future (a crossover with the Whedon miniseries Fray) where she was forced to kill a future Dark Willow. Following the fray with Twilight, in which many Slayers were killed, Buffy developed abilities similar to those of Twilight. A subplot involves the repercussions of Dawn's college relationship with a boy named Kenny (described as a \"thricewise\"), whom she cheated on, losing her virginity to his roommate. Consequently, Dawn has been cursed with mystical transformations: first into a giant, then a centaur, and finally a living doll until she apologizes to Kenny and breaks the spell. Among the core group, Buffy is for a time romantically drawn to another woman: a Slayer named Satsu, and Xander to Slayer Renée; Willow's relationship with the core group is more estranged, while she protectively withholds Kennedy from her friends. Kennedy is unaware of the sexual aspect of Willow's relationship with Saga Vasuki. Giles and Buffy, at odds, stop speaking with one another. Giles works with Faith to prevent more Slayers from going rogue. Although Buffy comes to feel that her only compatible mate is Xander, and is upset to learn that he truly loves Dawn, she and Angel succumb to their desires for one another upon their reunion, though the extent to which they were in control of their actions is uncertain.",
+        "templateType" : 1,
+        "title" : "Thricewise"
+      },
+      "Story-KmoOywh_-qlOdejvZB9" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kl1a10FPWd6NQEHx56E-Story-KmoOywh_-qlOdejvZB9?alt=media&token=2b3f7e12-81d7-47a9-9a87-6e1f16c0c42a",
+        "story" : "In the series' penultimate arc, Twilight is revealed to be Buffy's former lover, Angel. Angel attempts to explain that his Twilight persona was used to unify the anti-Slayer movement, thus limiting the potential destruction they could have caused working independently. His secondary goal was to push Buffy's development so that the two of them could reunite romantically and ascend to a higher plane of existence, itself called Twilight. However, whatever magical effect Angel was under seemed to wane after Buffy realised she was needed back on Earth to assist her friends as demons poured in from other dimensions to destroy the old universe. At the last moment, Buffy's other love, Spike arrives in a futuristic ship to announce he has a solution to the problem at hand. In the final arc, \"Last Gleaming\", Spike's information leads them to source both of magic and of Twilight's power, a mystical \"seed\" buried beneath Sunnydale. Giles plans to destroy it, but Twilight possesses Angel and compels him to kill Giles by snapping his neck. Distraught, Buffy smashes the seed herself. Twilight is stopped but magic is also removed from the universe. Though Slayers and vampires retain their powers, witches for example are left entirely powerless. Subsequently, Willow breaks up with Kennedy and Faith inherits Giles' estate and attempts to begin Angel's rehabilitation. A pariah in the community of Slayers and former witches, Buffy moves to San Francisco where she lives as a houseguest at Dawn and Xander's apartment, and resumes her former duties as Slayer: patrolling at night for vampires.",
+        "templateType" : 2,
+        "title" : "The twilight"
+      }
+    },
+    "Hero-Kl2CSa49lBWlMIQo6oC" : {
+      "Story-KmonK03nrXDr9ijbDgg" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kl2CSa49lBWlMIQo6oC-Story-KmonK03nrXDr9ijbDgg?alt=media&token=00a60a43-2552-4851-8471-3dab2f29b60d",
+        "story" : "Andrea is a member of the survivor group, and a central character within The Walking Dead series. She is a prominent figure within the survivors. She graduated from college and worked as a clerk at a law firm. She also had a younger sister named Amy, who was two years younger than Andrea. Before the zombie outbreak went into full-force, Andrea was driving her sister back to college during a road trip. The two sisters considered this a way to bond, and despite the long journey it had become a sort of ritual for them. Along the way, Andrea's car broke down and she was forced to pull to the side of the road. The two sisters were the first of the survivors to be picked up by Dale, who had been driving along in his RV and noticed the two women were stranded.Andrea was one of the first survivors from the camp at the outskirts of Atlanta to truly adapt to the new post-apocalyptic world order. She quickly became one of the most useful and utilized members of the group.Her most prominent skill is her proficiency as a sharpshooter. Throughout the series this has come in handy against both the living and the dead being one of the most lethal members of the group. She has also at many times taken up the role of teaching other survivors how to shoot like Tyreese at the prison and various members of the Alexandrian community. Because of this skill she often has taken up as a position as the lookout for the group.Andrea has been consistently resolute despite all the tragedies that have occurred throughout the series. She is brave and loyal to her allies, not only is she willing to risk her life for her allies she often goes out of her way to do so. The most notable example of this is when she returns alone to help protect the members of the community who remained at the prison for the assault led by the governor a more recent example would be her risking her life to save Eugene Porter when he found himself surrounded by walkers.Andrea has been in two long term post apocalyptic relationships, with Dale and then Rick Grimes. She also took an adoptive motherly role to Ben and Billy and now has become a mother figure to Carl Grimes.",
+        "templateType" : 0,
+        "title" : "Pre-Apocalypse"
+      },
+      "Story-KmonqV-I-CIEol4IZdd" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -45
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kl2CSa49lBWlMIQo6oC-Story-KmonqV-I-CIEol4IZdd?alt=media&token=8cc54c1a-cb62-410d-807a-dfcc4e293bff",
+        "story" : "Andrea and Amy traveled with Dale to the city of Atlanta, Georgia. By the time they got to the city however, it had already been overrun with zombies. They instead set up a campsite along the outskirts of the city, which soon attracted many other survivors. The first of these being, a man named Allen, his wife Donna, and their twin sons Billy and Ben. This was soon added to when Glenn, Jim, Carol, Sophia, Shane, Lori Grimes, Carl Grimes, and eventually Rick Grimes joined the group. \n\nWhen Rick Grimes first arrives at the Atlanta camp, he meets Andrea, alongside her sister, Amy, as they are coming out of Dale's RV. A few days later, A day later, Andrea attends a group target practice held by Rick and Shane. She quickly adapts to the scenario and masters the practice with ease, becoming the best shooter in the practice, impressing both Rick, and Shane.\n\nThe next night, after the the group discuss their lives before the apocalypse, Amy is bitten by a zombie that took her by surprise. Andrea quickly rushes to Amy's aid, but, she is too late, Amy bleeding out seconds after Andrea arrives to help. Andrea continues to weep over her sister's death, despite the camp being quickly surrounded by zombies and attacked. After the zombie group is dealt with, Andrea shoots Amy in the head, wanting to prevent her from reanimating into a zombie.\n\nThe next day, Andrea is seen grieving at Amy's funeral. After the rest of the group say their last words, Andrea refuses to head back to camp, staying at Amy's grave despite the freezing weather. After eventually returning to camp, Andrea isolates herself in Dale's RV. Dale tries to comfort her, but, she refuses to reply, sitting it silence, even missing the chance to see Jim off, after the group leave him to turn in a nearby forest after he was bitten in the zombie attack the night before.",
+        "templateType" : 1,
+        "title" : "Post-Apocalypse"
+      }
+    },
+    "Hero-Kl7oN2AyzjG9oltQbzK" : {
+      "Story-Kmof-m5MScXsl5gZpn7" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kl7oN2AyzjG9oltQbzK-Story-Kmof-m5MScXsl5gZpn7?alt=media&token=edc3f23c-772c-42b6-90bb-463a08d6afa0",
+        "story" : "Alana grew up with an abusive father. She joined military to escape her situation and father.Alana joined the Landfall Coalition where she became Private First Class. While in the service of Countess Robot X, she was ordered to bomb a bridge which had several innocent enemy civilians on it. Even though it would save their own sides lives, she hesitated to kill innocents. Even though she eventually pulled the trigger and bombed the innocents, she was discharged for hesitating.Alana was sentenced to prison duty on Cleave. She spent much of her time reading, including works by her favorite author D. Oswald Heist, who lived on Quietus. Soon, a young Wreath soldier named Marko surrendered and was sent to her prison.At first they did not get along but soon found solace in 'secret book club' where Alana would read to Marko as he worked in manual labor. He informed her that he would be transferred soon and Alana became worried he wouldn't return. She broke his chains and ran away with him to start a new life.[4] They became secretly married and had the first cross-species baby that survived longer than a few weeks. After the birth of their girl, Hazel, they soon found themselves pursued by the Landfall Coalition for defecting from service. They escaped with a map that promised a rocket ship off of Cleave. As they continued to ford their way to the rocketship, her husband was attacked by The Stalk. Alana frantically needed snow from a mountain to save his life as a key ingredient in a healing spell. Seeing the plight she was in, a local Horrors named Izabel offered to get to the snow. However, she must allow herself to be bonded with her child in return. After resisting at first, Alana began to realize Izabel really did care for them and knew how to help take care of their baby. She agree to let Hazel become bonded with Izabel. As Marko was in a daze from his injuries, he called out for his ex-wife, Gwendolyn. Infuriated, Alana waited until Marko was healed from the snow and immediately began interrogating Marko on her. Alana learned the ring she wears is not hers, but actually Gwendolyn's grandparents. It's part of what allows them to speak to each other even though they knew different languages. Marko assures here that Gwendolyn and he grew distant through the years as she supported the war and he did not.They were interrupted by a Royal Vondertank arriving with Landfall Coalition forces. When Alana was shot by a stray bullet, Marko entered a berzerker rage to save family. When Alana came too, she shot him with her Heartbreaker to force him to come to his senses. They boarded the ship to escape just in time to avoid being found by their pursuer, Prince Robot IV",
+        "templateType" : 1,
+        "title" : "Origins"
+      },
+      "Story-KmogutsQiIPPsQv_n4o" : {
+        "coordinates" : {
+          "x" : -55,
+          "y" : 0
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kl7oN2AyzjG9oltQbzK-Story-KmogutsQiIPPsQv_n4o?alt=media&token=559cfb1e-bc25-4df3-ae7c-3ae1a2660e1a",
+        "story" : "Finally arriving at Rocketship Forest, they were shown a wooden ship by Izabel. She informed them they would need to sacrifice something important to leave and Marko smashed his sword which had been a family heirloom for years. As they took off in the shop, they were suddenly boarded by Marko's parents, Barr and Klara. His parents thought he was in trouble since his sword was broken and banished Izabel to a nearby planet in the scuffle. Marko quickly showed them that he had married Alana and had their child Hazel together. Realizing he needed to rescue Izabel, he took one of their Crash Helms and went to the planet with his mom to save her. While staying on the ship with Barr, Alana attempted to restrain him by asking the ship to imprison him with its plant tendrils. Barr used disintegration to escape, he told her the secret that he was dying and had only a month to live. The two slowly bonded as he helped take care of Hazel and he created armor for her that could withstand gunpowder gunshots. Upon rescuing Izabel, Marko and Klara teleported back to the ship. When the Timesuck started pulling them towards it, Marko grabbed the Crash Helms to burn in the ships kiln and escape from Timesuck. However, the speed was too much for the ship and it began to rip the ship apart. Marko's father, Barr, used magic to bind the ship together even though Alana pleaded for him not to due to his heart. When Marko returned upstairs, he was devastated to find his father had died of heart failure due to the exertion put on his body.[5] Alana attempted to cheer Marko up but was unsuccessful and he continued to express sadness and didn't smile for weeks to come. However, upon arriving on Quietus, Alana was truly happy to have been united with her favorite author, Heist. There, she learned about the Open Circuit and began talking with Marko about potentially providing for her family by becoming an actor. He soon warned them they'd need to leave as he's frequently inspected and he wouldn't want them to get caught.[2] They failed to leave soon enough and found themselves trapped in the attic as Prince Robot arrived and was interrogating Heist about his propaganda book. When Klara went downstairs to confront the Prince, Alana and Marko headed to the top of the lighthouse to see if they could escape. Marko urged Alana to jump but she protested that her wings won't work. When Gwendolyn arrived and asked for the ingredients to save her new love's life, Alana attempted to help by telling her about a hospital nearby on Landfall. Gwen attempted to murder Alana with her lance but Marko pushed Alana off the roof. She suddenly re-appeared using her wings to fly and disabled Gwen giving them a chance to escape.",
+        "templateType" : 0,
+        "title" : "To Quietus"
+      },
+      "Story-Kmoh880UhlhhMFA4UL_" : {
+        "coordinates" : {
+          "x" : 0,
+          "y" : -210
+        },
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/angular4hero.appspot.com/o/StoryPics%2FHero-Kl7oN2AyzjG9oltQbzK-Story-Kmoh880UhlhhMFA4UL_?alt=media&token=76b29714-391f-4792-b511-8e99923835c4",
+        "story" : "Marko and Alana made a vow, to not touch each other romantically in a way that would make another child until they found the one they lost. Together, they spent years searching for Hazel. They eventually found themselves on Variegate. They searched through ship manifests and found one that described their child and Klara. However, it says they were brought to Landfall. They knew they'd need help getting in past the robots, so they headed back to Quietus to ask Prince Robot, renamed Sir Robot, for help in passing the guards.On Quietus, Marko and Alana convinced Prince Robot, now de-throwned and going by the name Sir Robot, to help them break into the prison to save their daughter. They threatened to reveal their location to King Robot and the Prince agreed to help them.",
+        "templateType" : 2,
+        "title" : "Searching for Hazel"
+      }
+    }
+  },
+  "SuperPowers" : {
+    "Hero-KkbU510uEj96honHKbS" : {
+      "Power-KlKMg-zMDvimoIrozk5" : "Super Sense",
+      "Power-KlKMg-zMDvimoIrozk6" : "Supreme Agility",
+      "Power-KlKNTqkm97Wsy-8IHkl" : "Trained Acrobat"
+    },
+    "Hero-KkbV7tEVo4azosh9ZPP" : {
+      "Power-KmhS81dcpM1xlli7WgN" : "Peak human physical and mental condition",
+      "Power-KmhS81emXvNGyo27QbP" : "Highly skilled acrobat, martial artist and hand-to-hand combatant",
+      "Power-KmhS81emXvNGyo27QbQ" : "Radar sense",
+      "Power-KmhS81emXvNGyo27QbR" : "Utilization of specially-designed club"
+    },
+    "Hero-KkbWCTZeqitly9kpq5c" : {
+      "Power-KmhcxB9p5CipnPk71kt" : "Regenerative healing factor",
+      "Power-KmhcxB9p5CipnPk71ku" : "Skilled marksman, swordsman, and hand-to-hand combatant",
+      "Power-KmhcxB9p5CipnPk71kv" : "Extended longevity",
+      "Power-KmhcxB9p5CipnPk71kw" : "Utilizes magic satchel and devices granting teleportation and holographic disguise"
+    },
+    "Hero-KkbWeoe70Wt5cGpaC4q" : {
+      "Power-Kmhfp29IgykbQsG8nDg" : "Mastery of magic",
+      "Power-Kmhfp29IgykbQsG8nDh" : "Skilled athlete and martial artist",
+      "Power-Kmhfp29IgykbQsG8nDi" : "Energy projection and manipulation",
+      "Power-Kmhfp29IgykbQsG8nDj" : "Teleportation",
+      "Power-Kmhfp2ACJjDkIjq1ZW3" : " Illusion-casting",
+      "Power-Kmhfp2ACJjDkIjq1ZW4" : "Thought projection",
+      "Power-Kmhfp2ACJjDkIjq1ZW5" : " Astral projection",
+      "Power-Kmhfp2ACJjDkIjq1ZW6" : "Dimensional travel",
+      "Power-Kmhfp2ACJjDkIjq1ZW7" : "Time travel"
+    },
+    "Hero-KkbXnYW3HVtUlZ7dyk5" : {
+      "Power-KmhgbzO7uZjY4oH3QJS" : "Exceptional martial artist",
+      "Power-KmhgbzO7uZjY4oH3QJT" : "Combat strategy",
+      "Power-KmhgbzO7uZjY4oH3QJU" : "Inexhaustible wealth",
+      "Power-KmhgbzO7uZjY4oH3QJV" : "Brilliant deductive skill"
+    },
+    "Hero-KkbYhvN4isJ-Zc9OosO" : {
+      "Power-KmhnM2Q2Y8Bwcx6miFY" : "  Super strength",
+      "Power-KmhnM2R-mcVZWY4LEFd" : "Healing factor",
+      "Power-KmhnM2R-mcVZWY4LEFe" : "Superhuman hearing",
+      "Power-KmhnM2R-mcVZWY4LEFf" : "X-ray vision",
+      "Power-KmhnM2R-mcVZWY4LEFg" : "Heat vision",
+      "Power-KmhnM2R-mcVZWY4LEFh" : "Super speed",
+      "Power-KmhnM2R-mcVZWY4LEFi" : "Flight",
+      "Power-KmhnM2R-mcVZWY4LEFj" : "Freeze breath"
+    },
+    "Hero-KkbZCbkpc1lAWGcciea" : {
+      "Power-KmhxuZ7LcZsSyMPLv6a" : "Superhuman speed, agility, and stamina",
+      "Power-KmhxuZ8g2d4NzuDR4Yz" : "Accelerated human physiology",
+      "Power-KmhxuZ8g2d4NzuDR4Z-" : "Speed Force Generator",
+      "Power-KmhxuZ8g2d4NzuDR4Z0" : "Speed Absorption",
+      "Power-KmhxuZ8g2d4NzuDR4Z1" : "Electrokinesis",
+      "Power-KmhxuZ8g2d4NzuDR4Z2" : "Aerokinesis",
+      "Power-KmhxuZ8g2d4NzuDR4Z3" : "Dimensional Travel",
+      "Power-KmhxuZ8g2d4NzuDR4Z4" : "Electromagnetism",
+      "Power-KmhxuZ8g2d4NzuDR4Z5" : "Speed Mind",
+      "Power-KmhxuZ8g2d4NzuDR4Z6" : "Speed Force Aura",
+      "Power-KmhxuZ8g2d4NzuDR4Z7" : "Superhuman Durability",
+      "Power-KmhxuZ8g2d4NzuDR4Z8" : "Enhanced Senses",
+      "Power-KmhxuZ8g2d4NzuDR4Z9" : "Body vibration to phase through objects",
+      "Power-KmhxuZ8g2d4NzuDR4ZA" : "Infinite mass Punch"
+    },
+    "Hero-Kkb_A5a64zsF004slSe" : {
+      "Power-Kmi7HfzIfrAcdNENQ2M" : "Superhuman strength, speed, and durability",
+      "Power-Kmi7Hg-wpRM08m5kDX-" : "Aquatic physiology",
+      "Power-Kmi7Hg-wpRM08m5kDX0" : "Telepathy and mind control extending to aquatic life"
+    },
+    "Hero-Kkbb6cCSFi8EB3SofMG" : {
+      "Power-KmiJmNOusi37DAF4jlj" : "Unlimited Strength",
+      "Power-KmiJmNOusi37DAF4jlk" : "Thunderclap",
+      "Power-KmiJmNOusi37DAF4jll" : "Leaping/Jumping Ability",
+      "Power-KmiJmNOusi37DAF4jlm" : "Accelerated Healing",
+      "Power-KmiJmNOusi37DAF4jln" : "Dynamic Durability",
+      "Power-KmiJmNOusi37DAF4jlo" : "Breathing Underwater",
+      "Power-KmiJmNOusi37DAF4jlp" : "Resistance to Mind Control"
+    },
+    "Hero-KkbbZOf2xepcOEmOMMI" : {
+      "Power-KmiOBl3xwo-YYv33hDq" : "Superhuman strength and durability",
+      "Power-KmiOBl4PJGzdEJbq6O1" : "Supersonic flight",
+      "Power-KmiOBl4PJGzdEJbq6O2" : "Energy repulsor and missile projection",
+      "Power-KmiOBl4PJGzdEJbq6O3" : "Regenerative life support"
+    },
+    "Hero-Kkbc3Ydy2I_AltdZSvP" : {
+      "Power-KmiY4xt5mrudKxQsObZ" : "Superhuman strength, speed, endurance, and longevity",
+      "Power-KmiY4xt5mrudKxQsOb_" : "Speed, endurance, and longevity",
+      "Power-KmiY4xuTCDxr8KM92FX" : "Dimensional transportation",
+      "Power-KmiY4xuTCDxr8KM92FY" : "Weather manipulation",
+      "Power-KmiY4xuTCDxr8KM92FZ" : "Flight",
+      "Power-KmiY4xuTCDxr8KM92F_" : "Electric manipulation"
+    },
+    "Hero-Kkbc5uZCUTRNBF5uOri" : {
+      "Power-Kmi_PZXnLQI9JeRWHaz" : "Superhuman strength ",
+      "Power-Kmi_PZXnLQI9JeRWHb-" : "Acrobatic leaps",
+      "Power-Kmi_PZXnLQI9JeRWHb0" : "Web-slinging",
+      "Power-Kmi_PZXnLQI9JeRWHb1" : "Spider-sense"
+    },
+    "Hero-KkbdiXIWE8kmNYLIAG4" : {
+      "Power-Kmj3qOYUnLmKSuHBlr6" : "Superhuman strength, speed, durability, and longevity",
+      "Power-Kmj3qOZUFnOD934URNL" : "Skilled hand-to-hand combatant",
+      "Power-Kmj3qOZUFnOD934URNM" : "Flight",
+      "Power-Kmj3qOZUFnOD934URNN" : "Utilizes Lasso of Truth, indestructible bracelets, boomerang tiara, sword, and shield"
+    },
+    "Hero-KkbfeYOZMFFCHDYaJbX" : {
+      "Power-KmnNc_R7_APGpEqGCmU" : "Expert tactician, martial artist and secret agent",
+      "Power-KmnNc_R7_APGpEqGCmV" : "Slowed aging, and enhanced immune system",
+      "Power-KmnNc_R7_APGpEqGCmW" : "Expert marksman and mastery of various other weapons",
+      "Power-KmnNc_R7_APGpEqGCmX" : "Grappling hook knock out gas taser explosives tear gas pellets radio transmitter"
+    },
+    "Hero-KkbhHk17IbGpUA8RRZ6" : {
+      "Power-KmnXI5jKWX9r66-WWfO" : "Superhuman strength, speed, durability, and longevity",
+      "Power-KmnXI5jKWX9r66-WWfP" : "Flight",
+      "Power-KmnXI5jKWX9r66-WWfQ" : "Heat vision",
+      "Power-KmnXI5jKWX9r66-WWfR" : "Freezing breath",
+      "Power-KmnXI5jKWX9r66-WWfS" : "Extrasensory powers, including X-ray vision and Kryptonite detection"
+    },
+    "Hero-KkbihfkzrhWhQJJOBb1" : {
+      "Power-KmoL35tGFOSnjhFcmuu" : "Superhuman strength, speed, durability and endurance",
+      "Power-KmoL35u3yWDAkgj9sZe" : "Regenerative healing factor"
+    },
+    "Hero-Kl1a10FPWd6NQEHx56E" : {
+      "Power-KmoRSTNILrPHcbOqsYO" : "Superhuman strength, speed, and durability",
+      "Power-KmoRSTNILrPHcbOqsYP" : "Prophetic dreams"
+    },
+    "Hero-Kl2CSa49lBWlMIQo6oC" : {
+      "Power-KmopqaUwUfe5fP0niOT" : "Sharp shooter",
+      "Power-KmopqaV7mLmrOPG2AE0" : "Close range combat"
+    },
+    "Hero-Kl7oN2AyzjG9oltQbzK" : {
+      "Power-KmojzWgZ1oht-wxtdv-" : "Flight",
+      "Power-KmojzWgZ1oht-wxtdv0" : "Close range combats"
+    }
+  }
+}
