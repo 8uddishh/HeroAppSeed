@@ -9,7 +9,7 @@ let config = require('./../config.json');
 
 ((_, colors, path, fs, fbAdmin, gcloud, acct, seed, mime) => {
 
-    console.log(JSON.stringify(acct))
+  //  console.log(JSON.stringify(acct))
     let totalCoverPics = 24
     let totalLogoPics = 24
     let totalComicThumbnails = 7
@@ -26,14 +26,14 @@ let config = require('./../config.json');
                 console.log('---------------------------------------------------------')
                 console.log('Seed job completed, you are all set!!!'.bgGreen.black)
                 console.log('---------------------------------------------------------')
-            }, 500)       
+            }, 500)
         }
     }
 
     let checkUpdateComplete = function (updateType) {
         setTimeout(() => {
             switch(updateType) {
-                case 'coverpic': 
+                case 'coverpic':
                     if(totalCoverPics > 0)
                         totalCoverPics--
 
@@ -45,7 +45,7 @@ let config = require('./../config.json');
                         checkProcessComplete()
                     }
                     break;
-                case 'logo': 
+                case 'logo':
                     if(totalLogoPics > 0)
                         totalLogoPics--
 
@@ -57,7 +57,7 @@ let config = require('./../config.json');
                         checkProcessComplete()
                     }
                     break;
-                case 'comic': 
+                case 'comic':
                     if(totalComicThumbnails > 0)
                         totalComicThumbnails--
 
@@ -69,7 +69,7 @@ let config = require('./../config.json');
                         checkProcessComplete()
                     }
                     break;
-                case 'story': 
+                case 'story':
                     if(totalStoryPics > 0)
                         totalStoryPics--
 
@@ -98,7 +98,7 @@ let config = require('./../config.json');
             if(!err) {
                 checkUpdateComplete('coverpic')
             }
-        })  
+        })
     }
 
     let updateHeroLogo = (fireDb, heroid, heroLogoUrl) => {
@@ -106,7 +106,7 @@ let config = require('./../config.json');
             if(!err) {
                 checkUpdateComplete('logo')
             }
-        }) 
+        })
     }
 
     let updatePublisherLogo = (fireDb, publisherId, publisherLogoUrl) => {
@@ -130,12 +130,12 @@ let config = require('./../config.json');
             if(!err) {
                 checkUpdateComplete('story')
             }
-        }) 
+        })
     }
 
-    let uploadCoverPics = (fireDb, gstore, mime) => {        
+    let uploadCoverPics = (fireDb, gstore, mime) => {
         fs.readdir(path.join(__dirname, '..', 'data', 'images', 'CoverPics'), (err, files) => {
-            
+
             if( err ) {
                 console.error( "Could not list the directory.", err )
                 process.exit( 1 )
@@ -157,7 +157,7 @@ let config = require('./../config.json');
                     else {
                         console.log(`Uploaded Cover pic for Hero ${heroId}`.yellow)
                         updateHeroCoverPic(fireDb, heroId, createPublicFileUrl(bucketName, storageName))
-                    }   
+                    }
                 })
             })
 
@@ -175,15 +175,15 @@ let config = require('./../config.json');
                     else {
                         console.log(`Uploaded Cover pic for Publisher ${publisherId}`.yellow)
                         updatePublisherCoverPic(fireDb, publisherId, createPublicFileUrl(bucketName, storageName))
-                    }   
+                    }
                 })
             })
         })
     }
 
-    let uploadLogos = (fireDb, gstore, mime) => {        
+    let uploadLogos = (fireDb, gstore, mime) => {
         fs.readdir(path.join(__dirname, '..', 'data', 'images', 'Logos'), (err, files) => {
-            
+
             if( err ) {
                 console.error( "Could not list the directory.", err )
                 process.exit( 1 )
@@ -205,7 +205,7 @@ let config = require('./../config.json');
                     else {
                         console.log(`Uploaded Logo for Hero ${heroId}`.magenta)
                         updateHeroLogo(fireDb, heroId, createPublicFileUrl(bucketName, storageName))
-                    }   
+                    }
                 })
             })
 
@@ -224,15 +224,15 @@ let config = require('./../config.json');
                     else {
                         console.log(`Uploaded Logo for Publisher ${publisherId}`.magenta)
                         updatePublisherLogo(fireDb, publisherId, createPublicFileUrl(bucketName, storageName))
-                    }   
+                    }
                 })
             })
         })
     }
 
-    let uploadComics = (fireDb, gstore, mime) => {        
+    let uploadComics = (fireDb, gstore, mime) => {
         fs.readdir(path.join(__dirname, '..', 'data', 'images', 'ComicThumbnails'), (err, files) => {
-            
+
             if( err ) {
                 console.error( "Could not list the directory.", err )
                 process.exit( 1 )
@@ -244,26 +244,27 @@ let config = require('./../config.json');
                 let filePath = path.join(__dirname, '..', 'data', 'images', 'ComicThumbnails', file)
                 let storageName = `ComicThumbnails/${file}`
                 let comicId = _.split(file, '.')[0]
-
+                //console.log(file)
                 bucket.upload(filePath, {
                     destination: storageName,
                     public:true,
                     metadata: { contentType: mime.lookup(filePath), cacheControl: "public, max-age=300"}
                 }, (err) => {
+                  //console.log(err)
                     if(err)
                         console.log(err.red)
                     else {
                         console.log(`Uploaded thumbnail for Comic ${comicId}`.green)
                         updateComicThumbnail(fireDb, comicId, createPublicFileUrl(bucketName, storageName))
-                    }   
+                    }
                 })
             })
         })
     }
 
-    let uploadStories = (fireDb, gstore, mime) => {        
+    let uploadStories = (fireDb, gstore, mime) => {
         fs.readdir(path.join(__dirname, '..', 'data', 'images', 'StoryPics'), (err, files) => {
-            
+
             if( err ) {
                 console.error( "Could not list the directory.", err )
                 process.exit( 1 )
@@ -288,7 +289,7 @@ let config = require('./../config.json');
                     else {
                         console.log(`Uploaded thumbnail for Hero ${heroId}, Story ${storyId}`.grey)
                         updateStoryPic(fireDb, heroId, storyId, createPublicFileUrl(bucketName, storageName))
-                    }   
+                    }
                 })
             })
         })
@@ -297,12 +298,12 @@ let config = require('./../config.json');
     console.log('Starting seed...'.blue)
     let fireApp = fbAdmin.initializeApp({
         credential: fbAdmin.credential.cert(acct),
-        databaseURL: 'https://testangular-44f78.firebaseio.com/'
+        databaseURL: config.databaseURL
     })
 
     let gstore = gcloud.storage({
         projectId: acct.project_id,
-        keyFilename: './hero.config.json'
+        keyFilename: config.key
     })
 
     let fireDb = fbAdmin.database()
