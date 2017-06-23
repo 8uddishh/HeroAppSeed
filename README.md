@@ -55,6 +55,7 @@ As a google user one is eligible for a google cloud account. Note that the accou
 Copy the downloaded json file containing the application key to the seed project. Open the **config.json** in our seed project and set the **key** to the path of the copied app key json. 
 **Tomare!!** the project when run creates a seed.js file inside a dist folder, so the path we set for the key property of json has to be relative to that file not the seed.js file at root level. Eg if the app key file say app.key.json is at root level the path would be './../app.key.json' and not './app.key.json'. 
 The config also has a property **bucketName** this is the name of the storage bucket of your firebase project.
+The config also has a property **databaseURL** this is the name of the database url of your firebase project.
 
 ## Get set Go!!!
 
